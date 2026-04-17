@@ -1,0 +1,101 @@
+site_name: Manuel de l'Employé — Stovax Gazco
+site_description: Manuel de l'employé du Groupe Stovax (Stovax Limited et Gazco Limited)
+site_url: https://stovaborel.github.io/employee-handbook/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: custom
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
+    - scheme: slate
+      primary: custom
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Accueil: index.md
+  - Section 1 — Bienvenue: 01-bienvenue.md
+  - Section 2 — Gestion des absences: 02-gestion-absences.md
+  - Section 3 — Congé d'adoption: 03-conge-adoption.md
+  - Section 4 — Anti-corruption: 04-anti-corruption.md
+  - Section 5 — Harcèlement: 05-harcelement.md
+  - Section 6 — Performance: 06-performance.md
+  - Section 7 — Congé pour aidants: 07-conge-aidants.md
+  - Section 8 — Véhicules de société: 08-vehicules.md
+  - Section 9 — Congé de deuil: 09-conge-deuil.md
+  - Section 10 — Vélo au travail: 10-velo-travail.md
+  - Section 11 — Protection des données: 11-protection-donnees.md
+  - Section 12 — Congé d'urgence: 12-conge-urgence.md
+  - Section 13 — Procédure disciplinaire: 13-disciplinaire.md
+  - Section 14 — Drogues et alcool: 14-drogues-alcool.md
+  - Section 15 — Égalité des chances: 15-egalite-chances.md
+  - Section 16 — Location véhicule électrique: 16-vehicule-electrique.md
+  - Section 17 — Frais professionnels: 17-frais.md
+  - Section 18 — Test de vision: 18-test-vision.md
+  - Section 19 — Horaires flexibles: 19-horaires-flexibles.md
+  - Section 20 — Nourriture au travail: 20-nourriture.md
+  - Section 21 — Réclamation: 21-reclamation.md
+  - Section 22 — Santé et sécurité: 22-sante-securite.md
+  - Section 23 — Congés annuels: 23-conges-annuels.md
+  - Section 24 — Utilisation des systèmes informatiques: 24-systemes-info.md
+  - Section 25 — Détenteur de clés: 25-detenteur-cles.md
+  - Section 26 — Fonctions publiques et civiques: 26-fonctions-publiques.md
+  - Section 27 — Jour de repos compensatoire: 27-jour-repos.md
+  - Section 28 — Maternité et grossesse: 28-maternite.md
+  - Section 29 — Santé mentale: 29-sante-mentale.md
+  - Section 30 — Téléphone mobile: 30-telephone-mobile.md
+  - Section 31 — Gestion de pandémie: 31-pandemie.md
+  - Section 32 — Congé parental: 32-conge-parental.md
+  - Section 33 — Deuil parental: 33-deuil-parental.md
+  - Section 34 — Paternité: 34-paternite.md
+  - Section 35 — Période d'essai: 35-periode-essai.md
+  - Section 36 — Travail flexible: 36-travail-flexible.md
+  - Section 37 — Formation: 37-formation.md
+  - Section 38 — Congé parental partagé: 38-conge-parental-partage.md
+  - Section 39 — Tabac: 39-tabac.md
+  - Section 40 — Réseaux sociaux: 40-reseaux-sociaux.md
+  - Section 41 — Congé spécial: 41-conge-special.md
+  - Section 42 — Achat personnel: 42-achat-personnel.md
+  - Section 43 — Boîte à suggestions: 43-suggestions.md
+  - Section 44 — Stress: 44-stress.md
+  - Section 45 — Déplacements: 45-deplacements.md
+  - Section 46 — Tenue vestimentaire: 46-tenue-vestimentaire.md
+  - Section 47 — Intempéries: 47-intemperies.md
+  - Section 48 — Lanceur d'alerte: 48-lanceur-alerte.md
+  - Section 49 — Télétravail: 49-teletravail.md
+  - Section 50 — Temps de travail: 50-temps-travail.md
+  - Section 51 — Événements professionnels: 51-evenements.md

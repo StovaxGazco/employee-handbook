@@ -1,0 +1,14 @@
+:root {
+  --md-primary-fg-color: #333333;
+  --md-primary-fg-color--light: #555555;
+  --md-primary-fg-color--dark: #1a1a1a;
+  --md-accent-fg-color: #F7941D;
+}
+
+.md-header {
+  background-color: #333333;
+}
+
+.md-tabs {
+  background-color: #333333;
+}

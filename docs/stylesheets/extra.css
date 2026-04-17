@@ -12,3 +12,16 @@
 .md-tabs {
   background-color: #333333;
 }
+
+/* Make links in article content visually distinct */
+.md-content a:not(.md-button):not(.md-nav__link) {
+  color: #E07B00;
+  text-decoration: underline;
+  text-decoration-color: rgba(224, 123, 0, 0.4);
+  text-underline-offset: 2px;
+}
+
+.md-content a:not(.md-button):not(.md-nav__link):hover {
+  color: #F7941D;
+  text-decoration-color: #F7941D;
+}

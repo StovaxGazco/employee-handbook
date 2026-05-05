@@ -164,9 +164,9 @@ NAMED_LINKS = [
 # with optional trailing whitespace / tab
 NUM_ONLY_RE = re.compile(r'^(\d+\.[\d.]*)\s*$')
 
-# Matches a line that starts with a subsection number then a tab/spaces then text
-# e.g. "2.18\tLong Term Absence"
-NUM_INLINE_RE = re.compile(r'^(\d+\.[\d.]*)\t+(.+)$')
+# Matches a line that starts with a subsection number then a tab or 1+ spaces then text
+# e.g. "2.18\tLong Term Absence"  or  "32.1.1  The Company wishes..."  or  "34.4.4. Employees..."
+NUM_INLINE_RE = re.compile(r'^(\d+\.[\d.]*)(?:\t| +)(.+)$')
 
 # Repeated section header at top of each page
 SECTION_HEADER_RE = re.compile(r'^SECTION\s+\d+[:.]\s+', re.IGNORECASE)
@@ -180,8 +180,11 @@ BULLET_RE = re.compile(r'^[•·]\s*(.*)')
 # Lettered list item
 LETTER_ITEM_RE = re.compile(r'^([a-z])\.\s+(.*)')
 
-# Form field junk (lines of dots/underscores)
-FORM_DOTS_RE = re.compile(r'[._]{8,}')
+# Pure dot/underscore filler lines (no meaningful label)
+FORM_DOTS_RE = re.compile(r'^[._\s]{8,}$')
+
+# Any line containing 5+ consecutive dots/underscores — treat as form field(s)
+FORM_HAS_DOTS_RE = re.compile(r'[._]{5,}')
 
 # Known sentence-starter words that mean the next line is body text, not a heading title
 _BODY_STARTS = (
@@ -277,6 +280,7 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
     lines = raw_lines
     n = len(lines)
     i = 0
+    in_form_table = False  # track whether we're inside a markdown table block
 
     def peek_next_content(start):
         """Return (index, stripped_line) of the next non-empty, non-noise line."""
@@ -287,6 +291,29 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
                 return j, s
             j += 1
         return n, ''
+
+    def collect_body(start):
+        """Collect contiguous body-text continuation lines from `start`.
+        Stops at blank lines, noise, or any structural marker.
+        Returns (end_index, joined_text).
+        """
+        parts = []
+        k = start
+        while k < n:
+            cs = lines[k].strip()
+            if not cs:
+                break
+            if is_noise(lines[k]):
+                k += 1
+                continue
+            if (NUM_ONLY_RE.match(cs) or NUM_INLINE_RE.match(cs) or
+                    BULLET_RE.match(cs) or LETTER_ITEM_RE.match(cs)):
+                break
+            if cs == cs.upper() and len(cs.split()) >= 2 and not cs.startswith('N.B') and len(cs) > 6:
+                break
+            parts.append(cs)
+            k += 1
+        return k, ' '.join(parts)
 
     # Skip any leading top-level section number (e.g. "2.") and its title.
     while i < n:
@@ -305,6 +332,8 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
 
         # --- Skip noise lines ---
         if not s:
+            if in_form_table:
+                in_form_table = False
             out.append('')
             i += 1
             continue
@@ -342,58 +371,97 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
                     out.append('')
                     i += 1
             else:
-                # X.Y.Z → bold inline clause number; next line is body text
-                # (some deeper clauses also have a short title — include it if so)
+                # X.Y.Z → bold clause number, body text inline
                 if next_s and looks_like_heading_title(next_s):
+                    # Short descriptive title; body text may follow after
                     title_text = apply_crosslinks(next_s, filename)
-                    out.append(f'\n**{num} {title_text}**\n')
+                    out.append(f'\n**{num}** {title_text}')
                     i = j + 1
                 else:
-                    out.append(f'\n**{num}**')
-                    i += 1
+                    # Body text on next line(s) — collect and join continuations
+                    k, body_text = collect_body(j)
+                    if body_text:
+                        body_text = apply_crosslinks(body_text, filename)
+                        out.append(f'\n**{num}** {body_text}')
+                        i = k
+                    else:
+                        out.append(f'\n**{num}**')
+                        i += 1
             continue
 
-        # --- Number + tab + inline title on same line? ---
+        # --- Number + tab/spaces + inline text on same line? ---
         m = NUM_INLINE_RE.match(s)
         if m:
             num = m.group(1).rstrip('.')
-            title_text = m.group(2).strip()
+            first_text = m.group(2).strip()
             depth = num_depth(num + '.')
-            title_text = apply_crosslinks(title_text, filename)
+            # Collect any continuation lines
+            k, cont_text = collect_body(i + 1)
+            full_text = (first_text + ' ' + cont_text).strip() if cont_text else first_text
+            full_text = apply_crosslinks(full_text, filename)
             if depth == 1:
                 out.append('')
-                out.append(f'## {num} {title_text}')
+                out.append(f'## {num} {full_text}')
                 out.append('')
             else:
-                out.append(f'\n**{num} {title_text}**\n')
-            i += 1
+                out.append(f'\n**{num}** {full_text}')
+            i = k
             continue
 
         # --- Bullet point ---
         m = BULLET_RE.match(s)
         if m:
-            content = apply_crosslinks(m.group(1).strip(), filename)
+            content = m.group(1).strip()
+            k, cont_text = collect_body(i + 1)
+            if cont_text:
+                content = content + ' ' + cont_text
+            content = apply_crosslinks(content, filename)
             out.append(f'- {content}')
-            i += 1
+            i = k
             continue
 
         # --- Lettered list item ---
         m = LETTER_ITEM_RE.match(s)
         if m:
-            content = apply_crosslinks(m.group(2).strip(), filename)
+            content = m.group(2).strip()
+            k, cont_text = collect_body(i + 1)
+            if cont_text:
+                content = content + ' ' + cont_text
+            content = apply_crosslinks(content, filename)
             out.append(f'- **{m.group(1)})** {content}')
-            i += 1
+            i = k
             continue
 
         # --- ALL-CAPS subsection label (e.g. "COMPANY DRIVING HOURS GUIDELINES") ---
         if s == s.upper() and len(s.split()) >= 2 and not s.startswith('N.B') and len(s) > 6:
+            if in_form_table:
+                in_form_table = False
             out.append('')
             out.append(f'### {s.title()}')
             out.append('')
             i += 1
             continue
 
+        # --- Form field line: any line with 5+ consecutive dots → table row(s) ---
+        if FORM_HAS_DOTS_RE.search(s):
+            # Split on dot runs to extract all field labels from the line
+            parts = re.split(r'\s*[._]{5,}\s*', s)
+            labels = [p.strip().rstrip(':').strip() for p in parts
+                      if p.strip() and p.strip() not in ('or', 'and', '*', '')]
+            if labels:
+                if not in_form_table:
+                    out.append('')
+                    out.append('| Field | Details |')
+                    out.append('|---|---|')
+                    in_form_table = True
+                for label in labels:
+                    out.append(f'| {label} | |')
+            i += 1
+            continue
+
         # --- Regular paragraph line ---
+        if in_form_table:
+            in_form_table = False
         linked = apply_crosslinks(s, filename)
         out.append(linked)
         i += 1

@@ -136,6 +136,27 @@
       padding: 14px 24px;
     }
 
+    .notice {
+      margin-bottom: 32px;
+      padding: 16px 20px;
+      background: #f9f9f9;
+      border-left: 3px solid var(--orange);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      text-align: left;
+    }
+
+    .notice p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.55;
+    }
+
+    .notice p + p {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid #e8e8e8;
+    }
+
     @media (max-width: 480px) {
       .card { padding: 36px 24px 32px; }
       .lang-buttons { flex-direction: column; align-items: center; }
@@ -150,6 +171,11 @@
       <div class="logo-wrap">
         <img src="logo.png" alt="Stovax Gazco">
       </div>
+      <div class="notice">
+        <p>This is a company-wide document covering all policies and benefits across the business. Please note that some of these may not apply to you depending on the exact nature of your role or your country of operation. If you are unsure which policies apply to you, please speak with your line manager or our HR team for clarification.</p>
+        <p>Ce document couvre l'ensemble des politiques et des avantages en vigueur dans toute l'entreprise. Certains éléments peuvent ne pas s'appliquer à vous selon la nature exacte de votre poste ou de votre pays d'exercice. En cas de doute, n'hésitez pas à en discuter avec votre responsable hiérarchique ou notre équipe RH.</p>
+      </div>
+
       <div class="lang-buttons">
         <a href="en/" class="lang-btn primary">
           <span class="flag">🇬🇧</span>

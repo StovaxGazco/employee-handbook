@@ -4,27 +4,26 @@ title: "Health & Safety"
 
 # Section 22: Health & Safety
 
-22.
 
-### Health And Safety Policy Statement
+## 22.1 Purpose & Scope
 
-22.1.
-Purpose & Scope
-
-**22.1.1** The purpose and scope of this Policy Statement is to ensure that standards of Health and Safety established by the
-
+22.1.1  The purpose and scope of this Policy Statement is to ensure that standards of Health and Safety established by the
 Company are transparently and consistently maintained.
-22.2.
-Policy Principles
-22.2.1
+
+## 22.2 Policy Principles
+
+
+**22.2.1**
 The Company is committed to ensuring the health, safety and welfare of its employees so far as is reasonably practicable.
 We also fully accept our responsibility for others who may be affected by our activities, such as contractors, visitors
 and members of the public. We will take steps to ensure that our statutory duties are met at all times.
-22.2.2
+
+**22.2.2**
 Our policy is to provide a positive health and safety culture where no one is harmed, we do not damage property
 and where we establish and maintain a reputation for achieving the highest standards in Health and Safety practice
 through successful management, implementation, engagement and communication.
-22.2.3
+
+**22.2.3**
 To achieve these objectives our Senior Management Team are committed to providing a framework that ensures:
 - Safe and healthy working conditions for the prevention of work-related injury or ill health across all our
 business operations.
@@ -55,20 +54,21 @@ raise issues of health and safety.
 specialists from outside the organisation.
 - It is the duty of management to ensure that all processes and systems of work are designed to take account
 of health and safety and are properly supervised at all times.
-22.2.4
+
+**22.2.4**
 Every employee must co-operate with us to enable all statutory duties to be complied with. The successful
 implementation of this policy requires total commitment from all levels of employee, from the boardroom to the
 shopfloor. Everyone has a legal obligation to take reasonable care for their own health and safety, and for the safety of
 other people who may be affected by their acts or omissions.
-22.2.5
+
+**22.2.5**
 This policy will be regularly monitored to ensure that the objectives are achieved. It will be reviewed and, if necessary,
 revised in the light of any legislative or organisational changes and after taking into account the views and opinions of
 our staff at all levels.
-22.3.
-Health and Safety Policy and Handbook
 
-**22.3.1** The Company will produce and maintain a Health and Safety Policy and Handbook which will be issued to all Employees.
+## 22.3 Health and Safety Policy and Handbook
 
+22.3.1  The Company will produce and maintain a Health and Safety Policy and Handbook which will be issued to all Employees.
 All Employees must read and sign for the Health and Safety Handbook and follow the guidance contained therein.
 
 
@@ -89,3 +89,4 @@ No Action Needed
 DIRECTIONS FOR COMPLETING FORM: (1) Before completing this form, please ensure you have discussed the concern
 with your immediate supervisor and discussed a solution. (2) Complete the form in its entirety; please print clearly.
 (3) Sign and date the form. (4) Pass the form to your supervisor to counter sign and date.
+

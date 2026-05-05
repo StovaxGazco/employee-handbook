@@ -4,50 +4,56 @@ title: "Stress"
 
 # Section 44: Stress
 
-44.
 
-### Stress Policy And Procedure
+## 44.1 Purpose & Scope
 
-44.1
-Purpose & Scope
-44.1.1
+
+**44.1.1**
 The Company seeks to maintain a positive and supporting working environment for all its  Employees.  It accepts that
 stressors in the work place can have a detrimental and negative impact on the organisation and Employees – affecting
 health, morale, absenteeism and work performance.
-44.1.2
+
+**44.1.2**
 The Company is committed to protecting the health, safety and welfare of its Employees and, via this policy and other
 guidance, aims to establish an effective and consistent approach to the prevention and management of occupational
 stress throughout the Company.
-44.1.3
+
+**44.1.3**
 The Company has adopted the approach recommended by the Health and Safety Executive (HSE), which is based on
 a set of ‘Management Standards’ primarily concentrating on 6 key areas; Demands, Control, Support, Relationships,
 Roles and Change.
-44.2
-Definition
-44.2.1
+
+## 44.2 Definition
+
+
+**44.2.1**
 The Company adopts the HSE definition of stress:-  “The adverse reaction people have to excessive pressures or other
 types of demands placed upon them”.
 
 This definition makes an important distinction between pressure, which can be a positive state and a motivating factor
 when managed correctly, and stress, which can occur when pressure becomes excessive, which can be detrimental to
 an Employee’s health.
-44.2.2
+
+**44.2.2**
 It should be remembered that stress is a state and not an illness, and where it lasts for a short time there are normally
 no lasting effects.  However, where stress is sustained over a prolonged period of time, it can have a significant
 impact on health and well-being.  The identification and reduction of work related stress is a priority for the Company,
 bringing  benefit to both the organisation and its Employees by taking appropriate action to alleviate and
 
 prevent stress.
-44.3
-Prevention and Legal Responsibility
-44.3.1
+
+## 44.3 Prevention and Legal Responsibility
+
+
+**44.3.1**
 The Company recognises its duty of care to its Employees and its legal obligation to provide a safe working environment
 under the terms of: -
 - The Health and Safety at Work Act (1974) providing a duty of care to ensure the health and safety of its
 Employees as far as is reasonably practicable.
 - The Management of Health and Safety at Work Regulations (1999) requiring Employers to undertake Risk
 Assessment, including stress, and to introduce proactive measures to control identified risks.
-44.3.2
+
+**44.3.2**
 The Company hereby undertakes: -
 - To take all necessary reasonable and practical steps to prevent occupational stress, and where this is not
 possible, to minimise its effects.
@@ -69,17 +75,21 @@ effective in their roles;
 and to establish counter controls to mitigate the effects, so far as is reasonably practicable.
 - To encourage a culture of promoting health and well-being and a healthy work-life balance;
 
+
 - To ensure the effective management of change, through efficient and timely communication with the relevant
 stakeholders;
 - To ensure that the Stress Policy & Procedure and all associated notes are adhered to and effectively
 implemented with the necessary support, resources and mechanisms in place.
-44.4
-Responsibilities
-44.4.1
+
+## 44.4 Responsibilities
+
+
+**44.4.1**
 Responsibility for the effective management of stress and achieving the management standards rests with all levels of
 the organisation.
-44.4.2
-Organisational responsibilities
+
+**44.4.2 Organisational responsibilities**
+
 
 The Company is committed to dealing with any identified causes of occupational stress and to ensure, as far as is
 reasonably practicable, that staff work in a positive, safe and supporting working environment by seeking to:-
@@ -98,10 +108,12 @@ of stress;
 a stress risk assessment;
 - To address root causes of Occupational Stress at an organisational level through adopting effective procedures
 where identified.
-44.4.3
-Departmental and Line Managers Responsibilities
+
+**44.4.3 Departmental and Line Managers Responsibilities**
+
 Departmental and Line Managers are responsible for implementing the Company Stress Policy in their areas.
-44.4.4
+
+**44.4.4**
 Line Managers should actively involve Supervisors and Team Leaders in the implementation of this policy and are
 responsible for ensuring that reasonable practicable steps are taken to  minimise the potential for exacerbating risks
 arising in relation to occupational stress by: -
@@ -117,14 +129,16 @@ performance through appraisal and one-to-one meetings;
 - Monitoring working hours, rest periods and annual leave to ensure Employees are taking appropriate breaks;
 - Early intervention and resolution of interpersonal conflict;
 - To ensure that bullying and harassment are not tolerated and that inappropriate behaviour is dealt with in line
-with the “Bullying and Harassment Policy & Procedure”;
+with the “[Bullying and Harassment Policy](05-bullying-harassment.md) & Procedure”;
 - To be aware of changes to Employee behaviours which may signify signs of stress and proactively explore
 these;
 - Whilst Risk Assessments are a core responsibility of all Line Managers, Departmental Managers are responsible
 for ensuring that such assessments are carried out and acted upon where appropriate.
 
-44.4.5
-Occupational Health Service Responsibilities
+
+
+**44.4.5 Occupational Health Service Responsibilities**
+
 
 The Company’s Occupational Health Service will provide a confidential advisory service and will be pro-active in
 assisting the Company to manage occupational stress through: -
@@ -132,9 +146,7 @@ assisting the Company to manage occupational stress through: -
 - Providing support and advice to Managers in implementing Stress Risk Assessments;
 - Supporting individuals who have been off sick with medically diagnosed stress and advise them and their
 Managers on how to manage a return to work.
-
-**44.4.6** Human Resources Responsibilities
-
+44.4.6 	 Human Resources Responsibilities
 
 Human Resources will provide advice and guidance and ensure that a framework of supporting policies and procedures
 are in place to assist Employees and Managers to promote a safe and supportive working environment by: -
@@ -151,7 +163,8 @@ identified as a control measure, following a stress risk assessment;
 and the management thereof, in the relevant forum, such as the Group Health and Safety Meeting;
 - Monitoring statistical data on absence, staff turnover, Employee relations issues and feedback questionnaires
 to ensure further exploration or action is undertaken where appropriate.
-44.4.7
+
+**44.4.7**
 Employee Responsibilities
 
 It is vital that Employees play an active role in contributing to their own health and well-being and management of
@@ -166,45 +179,44 @@ earlier stage in order to seek constructive solutions;
 - Showing dignity and respect for others within the workplace at all times and ensuring bullying and harassment
 in the workplace is not tolerated by challenging bullying behaviour in colleagues initially informally, in line with
 the ‘Harassment and Bullying Policy & Procedure’ or reporting continued inappropriate behaviours to your
-Line Manager or HR. (Details can be found in the Bullying and Harassment Policy & Procedure)
-
-**44.4.8** It is hoped that a proactive approach by all will mitigate the occurrence of potential harmful levels of stress.  However,
-
+Line Manager or HR. (Details can be found in the [Bullying and Harassment Policy](05-bullying-harassment.md) & Procedure)
+44.4.8  It is hoped that a proactive approach by all will mitigate the occurrence of potential harmful levels of stress.  However,
 where an Employee feels under undue pressure resulting in symptoms of stress, they should inform their Line Manager
 or Human Resources as soon as possible.
-44.4.9
+
+**44.4.9**
 The Board of Directors
 
 The Board of Directors have individual and collective responsibilities to lead by example, and where necessary minimise
 and monitor, the effects of their decisions on health and safety, including occupational stress.
-
-**44.4.10** The legal accountability for implementing this Policy (as with all parts of the Health and Safety Policy) lies with the
-
+44.4.10 The legal accountability for implementing this Policy (as with all parts of the [Health and Safety Policy](22-health-safety.md)) lies with the
 Directors.  Whilst much of the responsibility for implementation will, if necessity, be delegated via line management,
 the primary responsibility for ensuring delivery lies with the Managing Director.  In discharging this responsibility,
 the Managing Director will monitor management information relating to stress and will establish such management
 mechanisms or groups as is necessary to ensure that such information is gathered and considered.
 
-**44.4.11** The Group Health & Safety Committee
+**44.4.11 The Group [Health & Safety](22-health-safety.md) Committee**
 
 
-The Company Health & Safety Committee keeps an overview of the effectiveness of this policy and other measures
+The Company [Health & Safety](22-health-safety.md) Committee keeps an overview of the effectiveness of this policy and other measures
 which have been implemented to eliminate or reduce stress and promote workplace health and safety.  The Committee
 will approve reviews of this policy on a regular basis.
 
-44.5
-Other Employment Procedures
+
+## 44.5 Other Employment Procedures
+
 
 The Company has a number of other employment procedures which assist with minimising the risks of stress and
 promoting a safe and supportive working environment, such as: -
-- Bullying and Harassment Policy & Procedure;
-- Grievance Policy & Procedure;
+- [Bullying and Harassment Policy](05-bullying-harassment.md) & Procedure;
+- [Grievance Policy](21-grievance.md) & Procedure;
 - Disciplinary and Performance at Work Policy & Procedure;
-- Absence Management Policy & Procedure;
-- Drugs and Alcohol Policy & Procedure;
-- Flexi Time Policy & Procedure;
+- [Absence Management Policy](02-absence-management.md) & Procedure;
+- [Drugs and Alcohol Policy](14-drugs-alcohol.md) & Procedure;
+- [Flexi Time Policy](19-flexi-time.md) & Procedure;
 - Dependency Leave Policy & Procedure.
-44.5.1
+
+**44.5.1**
 It should be noted that on occasions Managers may have to manage performance, capability, or invoke disciplinary
 procedures which, in themselves, can be a stressful situation for those involved.  However, this should not prevent
 Managers dealing with a legitimate employment issue in line with the above noted procedures.  If during a performance
@@ -213,6 +225,8 @@ and explored accordingly in line with the procedure in hand.  However, nothing i
 or prevent the operation of other relevant  policies which may need to be invoked.  In such situations, Managers
 should see the support of Human Resources on how to manage the situation and each case will be managed relevant
 to the issues raised.
-44.5.2
+
+**44.5.2**
 All Employees are encouraged to contact Human Resources for confidential information and advice on any stress
 related matter.
+

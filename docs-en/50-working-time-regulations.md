@@ -4,44 +4,31 @@ title: "Working Time Regulations"
 
 # Section 50: Working Time Regulations
 
-50.
 
-### Working Time Regulations Policy And Procedure
+## 50.1 Purpose of the Policy
 
-50.1.
-Purpose of the Policy
-
-**50.1.1** The purpose of this Policy is to communicate the statutory requirement, so that Employees may understand and
-
+50.1.1  The purpose of this Policy is to communicate the statutory requirement, so that Employees may understand and
 benefit from the protection afforded them.
-
-**50.1.2** The Policy outlines the obligations on the Employer and Employee as part of the Working Time Regulations,
-
+50.1.2  The Policy outlines the obligations on the Employer and Employee as part of the Working Time Regulations,
 
 Amended 2003.
-50.2.
-Purpose and Scope
 
-**50.2.1** The Company will not treat Employees any less favourably as a result of their intention to exercise their rights under
+## 50.2 Purpose and Scope
 
+50.2.1  The Company will not treat Employees any less favourably as a result of their intention to exercise their rights under
 the Working Time Regulation provisions.
-
-**50.2.2** The Company recognises it has a duty of care to the Employee and fully supports the Working Time Regulations, as
-
+50.2.2  The Company recognises it has a duty of care to the Employee and fully supports the Working Time Regulations, as
 it protects Employees from overwork and any negative impact this may have on performance or well being.  The
 Company also respects the rights of individual Employees to opt out of the Working Time Regulations, if they should
 so wish.
-
-**50.2.3** The Company supports the basic rights and protections Employees have under the Working Time Regulations:
-
+50.2.3  The Company supports the basic rights and protections Employees have under the Working Time Regulations:
 - A limit of an average of 48 hours working a week, over a 17-week period;
 - A right to 11 hours rest a day, and a night to a day off each week;
 - A right to an “in work” rest break if the working day is longer than 6 hours.
-50.3.
-Definitions Used in the Working Time Regulation Policy and Procedure
 
-**50.3.1** Working Time – means any period during which the Employee is working and is at the Company’s disposal in carrying
+## 50.3 Definitions Used in the Working Time Regulation Policy and Procedure
 
+50.3.1  Working Time – means any period during which the Employee is working and is at the Company’s disposal in carrying
 out their activities or duties.
 
 Working time includes:
@@ -53,62 +40,42 @@ Working time does not include:
 - the journey to and from work and home;
 - travel outside normal working time
 - time spent on call when away from the workplace and not carrying out duties.
-
-**50.3.2** Reference period – is the number of hours worked each week, calculated and averaged over a 17-week period, to
-
+50.3.2  Reference period – is the number of hours worked each week, calculated and averaged over a 17-week period, to
 ensure no more 48 hours have been worked.
-50.4.
-Opting out of the Working Time Regulation
 
-**50.4.1** On an annual basis the Company will distribute information about the Working Time Regulations and provide the
+## 50.4 Opting out of the Working Time Regulation
 
+50.4.1  On an annual basis the Company will distribute information about the Working Time Regulations and provide the
 option for Employees to opt out of their application.
-
-**50.4.2** Employees wishing to opt out of the protection afforded by the regulations, must complete an Opt Out Form, or
-
+50.4.2  Employees wishing to opt out of the protection afforded by the regulations, must complete an Opt Out Form, or
 provide written confirmation of their intent.
 
-
-**50.4.3** Should an Employee opt out of the Working Time Regulations, but subsequently wish to opt back in, they should
-
+50.4.3  Should an Employee opt out of the Working Time Regulations, but subsequently wish to opt back in, they should
 provide written notification with one month’s notice.
-
-**50.4.4** The Company will not subject any Employee who wishes to opt in or out of the Working Time Regulation to detrimental
-
+50.4.4  The Company will not subject any Employee who wishes to opt in or out of the Working Time Regulation to detrimental
 treatment as a result of their wishes.
 
-50.5.
-Young Worker’s protection
 
-**50.5.1** The Company recognises that any Employee who is under the age of eighteen will be classified as a Young Worker
+## 50.5 Young Worker’s protection
 
-
-**50.5.2** Young Workers may not ordinarily work more than eight hours a day, more than 40 hours a week, or participate in
-
+50.5.1  The Company recognises that any Employee who is under the age of eighteen will be classified as a Young Worker
+50.5.2  Young Workers may not ordinarily work more than eight hours a day, more than 40 hours a week, or participate in
 night work. The Company is unable to accept a Young Worker’s opt out.
-
-**50.5.3** Under the Management of Health and Safety at Work Regulations 1999, the Company has a duty to take care of the
-
+50.5.3  Under the Management of Health and Safety at Work Regulations 1999, the Company has a duty to take care of the
 Health and Safety of all Employees. This includes undertaking Risk Assessments for those who are classified as a
 
 Young Worker.
-
-**50.5.4** The Risk Assessment will be undertaken by the Line Manager.
-
-
-**50.5.5** The Risk Assessment will be reviewed at regular intervals to take into account the changing physique and increasing
-
+50.5.4  The Risk Assessment will be undertaken by the Line Manager.
+50.5.5  The Risk Assessment will be reviewed at regular intervals to take into account the changing physique and increasing
 competency of the Young Worker.
+50.5.6  The Company will endeavour, where practicable, to minimise risk to an acceptable standard.
 
-**50.5.6** The Company will endeavour, where practicable, to minimise risk to an acceptable standard.
 
+## 50.6 Grievances
 
-50.6.
-Grievances
+50.6.1  If the Employee feels they have been treated unfairly by an individual, or their Line Manager, they should refer to the
+[Grievance Policy and Procedure](21-grievance.md) in the Staff Handbook.
 
-**50.6.1** If the Employee feels they have been treated unfairly by an individual, or their Line Manager, they should refer to the
-
-Grievance Policy and Procedure in the Staff Handbook.
 
 Date:
 Dear Colleague
@@ -139,20 +106,17 @@ Yours sincerely,
 
 ### Personal Details
 
-
-### Part A
-
+PART A
 I agree that I may work for more than an average of 48 hours a week calculated over a 17-week reference period as provided
 by the Working Time Regulations 1998. If I change my mind I will give the Company one month’s written notice to end
 this agreement.
-
-### Part B
-
+PART B
 The Working Time Regulations, 1998 requires all Employees to declare if they have a second form of employment. This work
 could be paid such as a few hours working in a bar, or voluntary, such as being a member of the retained fire service or a police
 special constable.
 If you have a second form of employment please provide details on the nature of your employment including hours,
 and involvement.
+
 
 What are the working time regulations?
 The working time regulations were introduced in October 1998 to encourage all employers across the European community to
@@ -182,3 +146,4 @@ We will not disclose this information to any other department; we will review ea
 situation. We may recommend you opt out of the regulations to ensure you have the flexibility to work between jobs.
 What if I am still not sure I understand the Working Time Regulation and its impact on me?
 If you want to discuss this document, or want to chat through your options please contact Human Resources.
+

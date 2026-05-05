@@ -1,10 +1,11 @@
 site_name: Manuel de l'Employé — Stovax Gazco
 site_description: Manuel de l'employé du Groupe Stovax (Stovax Limited et Gazco Limited)
-site_url: https://stovaborel.github.io/employee-handbook/
+site_url: https://stovaxgazco.github.io/employee-handbook/fr/
 
 theme:
   name: material
   language: fr
+  logo: img/logo.png
   palette:
     - scheme: default
       primary: custom

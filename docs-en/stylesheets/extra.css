@@ -1,0 +1,27 @@
+:root {
+  --md-primary-fg-color: #333333;
+  --md-primary-fg-color--light: #555555;
+  --md-primary-fg-color--dark: #1a1a1a;
+  --md-accent-fg-color: #F7941D;
+}
+
+.md-header {
+  background-color: #333333;
+}
+
+.md-tabs {
+  background-color: #333333;
+}
+
+/* Make links in article content visually distinct */
+.md-content a:not(.md-button):not(.md-nav__link) {
+  color: #E07B00;
+  text-decoration: underline;
+  text-decoration-color: rgba(224, 123, 0, 0.4);
+  text-underline-offset: 2px;
+}
+
+.md-content a:not(.md-button):not(.md-nav__link):hover {
+  color: #F7941D;
+  text-decoration-color: #F7941D;
+}

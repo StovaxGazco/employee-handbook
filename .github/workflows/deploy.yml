@@ -23,7 +23,14 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install mkdocs-material
-      - run: mkdocs build --strict
+      - name: Build French handbook
+        run: mkdocs build --strict --config-file mkdocs.yml --site-dir site/fr
+      - name: Build English handbook
+        run: mkdocs build --strict --config-file mkdocs-en.yml --site-dir site/en
+      - name: Assemble landing page
+        run: |
+          cp landing/index.html site/index.html
+          cp landing/logo.png site/logo.png
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Handbook — Stovax Gazco</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --charcoal: #333333;
+      --charcoal-dark: #1a1a1a;
+      --orange: #F7941D;
+      --orange-dark: #E07B00;
+      --white: #ffffff;
+      --bg: #f5f5f5;
+      --card-bg: #ffffff;
+      --text: #333333;
+      --text-muted: #666666;
+      --radius: 8px;
+      --shadow: 0 2px 12px rgba(0,0,0,0.10);
+      --shadow-hover: 0 6px 24px rgba(0,0,0,0.16);
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 24px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 48px 40px 40px;
+      max-width: 520px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .card .logo-wrap {
+      margin-bottom: 32px;
+    }
+
+    .card .logo-wrap img {
+      max-width: 220px;
+      height: auto;
+    }
+
+    .card h1 {
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: var(--charcoal);
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+
+    .card .subtitle {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      margin-bottom: 40px;
+    }
+
+    .lang-buttons {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .lang-btn {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      background: var(--charcoal);
+      color: var(--white);
+      border-radius: var(--radius);
+      padding: 20px 32px;
+      min-width: 160px;
+      box-shadow: var(--shadow);
+      transition: background 0.18s, transform 0.15s, box-shadow 0.18s;
+    }
+
+    .lang-btn:hover {
+      background: var(--charcoal-dark);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    .lang-btn .flag {
+      font-size: 2rem;
+      line-height: 1;
+    }
+
+    .lang-btn .lang-name {
+      font-size: 1.1rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+    }
+
+    .lang-btn .lang-sub {
+      font-size: 0.78rem;
+      opacity: 0.75;
+      font-weight: 300;
+    }
+
+    .lang-btn.primary {
+      background: var(--orange);
+    }
+
+    .lang-btn.primary:hover {
+      background: var(--orange-dark);
+    }
+
+    footer {
+      background: var(--charcoal);
+      color: rgba(255,255,255,0.55);
+      text-align: center;
+      font-size: 0.78rem;
+      padding: 14px 24px;
+    }
+
+    @media (max-width: 480px) {
+      .card { padding: 36px 24px 32px; }
+      .lang-buttons { flex-direction: column; align-items: center; }
+      .lang-btn { width: 100%; max-width: 260px; }
+    }
+  </style>
+</head>
+<body>
+
+  <main>
+    <div class="card">
+      <div class="logo-wrap">
+        <img src="logo.png" alt="Stovax Gazco">
+      </div>
+      <div class="lang-buttons">
+        <a href="en/" class="lang-btn primary">
+          <span class="flag">🇬🇧</span>
+          <span class="lang-name">English</span>
+          <span class="lang-sub">Employee Handbook</span>
+        </a>
+        <a href="fr/" class="lang-btn">
+          <span class="flag">🇫🇷</span>
+          <span class="lang-name">Français</span>
+          <span class="lang-sub">Manuel de l'Employé</span>
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    &copy; Stovax Gazco Limited.
+  </footer>
+
+</body>
+</html>

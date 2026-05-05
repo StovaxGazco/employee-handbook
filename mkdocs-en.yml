@@ -1,0 +1,104 @@
+site_name: Employee Handbook — Stovax Gazco
+site_description: Employee Handbook for Stovax Group (Stovax Limited and Gazco Limited)
+site_url: https://stovaxgazco.github.io/employee-handbook/en/
+
+docs_dir: docs-en
+
+theme:
+  name: material
+  language: en
+  logo: img/logo.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - scheme: slate
+      primary: custom
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Section 1 — Welcome: 01-welcome.md
+  - Section 2 — Absence Management: 02-absence-management.md
+  - Section 3 — Adoption Leave: 03-adoption-leave.md
+  - Section 4 — Anti-Bribery: 04-anti-bribery.md
+  - Section 5 — Bullying and Harassment: 05-bullying-harassment.md
+  - Section 6 — Capability & Performance: 06-capability-performance.md
+  - Section 7 — Carers Leave: 07-carers-leave.md
+  - Section 8 — Company Vehicle Drivers: 08-company-vehicles.md
+  - Section 9 — Compassionate Leave: 09-compassionate-leave.md
+  - Section 10 — Cycle to Work Scheme: 10-cycle-to-work.md
+  - Section 11 — Data Protection at Work: 11-data-protection.md
+  - Section 12 — Dependency and Emergency Leave: 12-dependency-emergency.md
+  - Section 13 — Disciplinary: 13-disciplinary.md
+  - Section 14 — Drugs and Alcohol Abuse: 14-drugs-alcohol.md
+  - Section 15 — Equal Opportunities & Diversity: 15-equal-opportunities.md
+  - Section 16 — Electric Vehicle Lease Scheme: 16-electric-vehicle.md
+  - Section 17 — Expenses: 17-expenses.md
+  - Section 18 — Eyesight Test: 18-eyesight-test.md
+  - Section 19 — Flexi Time: 19-flexi-time.md
+  - Section 20 — Food in the Workplace: 20-food-workplace.md
+  - Section 21 — Grievance: 21-grievance.md
+  - Section 22 — Health & Safety: 22-health-safety.md
+  - Section 23 — Holiday: 23-holiday.md
+  - Section 24 — IT Systems Use: 24-it-systems.md
+  - Section 25 — Key Holder: 25-key-holder.md
+  - Section 26 — Leave for Public & Civic Duties: 26-public-civic-duties.md
+  - Section 27 — Lieu Day: 27-lieu-day.md
+  - Section 28 — Maternity & Pregnancy: 28-maternity-pregnancy.md
+  - Section 29 — Mental Health & Wellbeing: 29-mental-health.md
+  - Section 30 — Mobile Phone: 30-mobile-phone.md
+  - Section 31 — Pandemic Management at Work: 31-pandemic.md
+  - Section 32 — Parental Leave (Statutory): 32-parental-leave.md
+  - Section 33 — Parental Bereavement: 33-parental-bereavement.md
+  - Section 34 — Paternity: 34-paternity.md
+  - Section 35 — Probationary Period: 35-probationary-period.md
+  - Section 36 — Right to Request Flexible Working: 36-flexible-working.md
+  - Section 37 — Right to Request Time off to Train: 37-time-off-to-train.md
+  - Section 38 — Shared Parental Leave: 38-shared-parental-leave.md
+  - Section 39 — Smoking: 39-smoking.md
+  - Section 40 — Social Media: 40-social-media.md
+  - Section 41 — Special Leave: 41-special-leave.md
+  - Section 42 — Staff Purchase: 42-staff-purchase.md
+  - Section 43 — Staff Suggestion Scheme: 43-suggestion-scheme.md
+  - Section 44 — Stress: 44-stress.md
+  - Section 45 — Travel: 45-travel.md
+  - Section 46 — Uniform Dress Code: 46-uniform-dress-code.md
+  - Section 47 — Weather — Adverse Conditions: 47-adverse-weather.md
+  - Section 48 — Whistle Blowing: 48-whistle-blowing.md
+  - Section 49 — Working from Home: 49-working-from-home.md
+  - Section 50 — Working Time Regulations: 50-working-time-regulations.md
+  - Section 51 — Work Related Functions & Events: 51-work-related-functions.md

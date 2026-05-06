@@ -14,7 +14,10 @@ title: "Parental Bereavement"
 
 **33.1.3** This Policy applies to all permanent Employees of the Company, irrespective of seniority or department.
 
-## 33.2 What is Parental Bereavement Leave?
+## 33.2
+
+
+### What is Parental Bereavement Leave?
 
 
 **33.2.1** Statutory Parental Bereavement Leave is a right for employed parents to be absent from work for a two-week period following the death of a child.  All employed bereaved parents who meet the eligibility conditions, regardless of how long they have worked for the company, will be entitled to this leave.
@@ -83,30 +86,47 @@ title: "Parental Bereavement"
 ### Request For Parental Bereavement Leave
 
 Wherever possible, all sections on this form should be completed prior to the leave taking place.
-Section A – To be completed by the Employee (if available)
-Employee Name
-Department
-Reason for Requesting Parental
-Bereavement Leave
-(your relationship to child)
-Number of Weeks Leave
-Requested
-Date of Death of child
-Date From
-Date To
-Section B – To be completed by the Employee’s Manager
-(On consulting with Human Resources as necessary)
-Request for Bereavement
-Leave Agreed?
-Yes
-No
-Manager’s Signature
-Manager’s Printed Name
-Date
-Section C – To be completed by Payroll
-(I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook)
-Payroll’s Signature
-Payroll’s Printed Name
-Date
-Manager - Send Completed form to Payroll
+
+### Section A – To be completed by the Employee (if available)
+
+
+| Field | Details |
+|---|---|
+| Employee Name | |
+| Department | |
+| Reason for Requesting Parental | |
+| Bereavement Leave | |
+*your relationship to child*
+
+| Field | Details |
+|---|---|
+| Number of Weeks Leave | |
+| Requested | |
+| Date of Death of child | |
+| Date From | |
+| Date To | |
+
+### Section B – To be completed by the Employee’s Manager
+
+*On consulting with Human Resources as necessary*
+
+| Field | Details |
+|---|---|
+| Request for Bereavement | |
+| Leave Agreed? | |
+| Yes / No | |
+| Manager’s Signature | |
+| Manager’s Printed Name | |
+| Date | |
+
+### Section C – To be completed by Payroll
+
+*I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook*
+
+| Field | Details |
+|---|---|
+| Payroll’s Signature | |
+| Payroll’s Printed Name | |
+| Date | |
+| Manager - Send Completed form to Payroll | |
 

@@ -5,7 +5,8 @@ title: "Staff Suggestion Scheme"
 # Section 43: Staff Suggestion Scheme
 
 
-**43** 1 Purpose and Scope
+## 43.1 Purpose and Scope
+
 
 **43.1.1** The Company advocates continuous improvement.  To encourage Employees to suggest ideas which will have a positive benefit on our products, services, efficiency and health & safety, we offer a cash incentive to the people who, in our opinion, make the best suggestions.
 
@@ -17,9 +18,7 @@ title: "Staff Suggestion Scheme"
 ## 43.3 Incentives
 
 
-**43.3.1** £25 will be paid to the Employees for the best suggestion(s) that are to be implemented by Stovax Ltd and/or
-
-Gazco Ltd.
+**43.3.1** £25 will be paid to the Employees for the best suggestion(s) that are to be implemented by Stovax Ltd and/or Gazco Ltd.
 
 **43.3.2** £10 will be paid to Employees whose suggestions, although not implemented, deserve recognition.
 
@@ -49,9 +48,7 @@ Gazco Ltd.
 ## 43.7 Conditions
 
 
-**43.7.1** Judging will be carried out by Management with the Directors making the final decision and feedback given to
-
-each contributor.
+**43.7.1** Judging will be carried out by Management with the Directors making the final decision and feedback given to each contributor.
 
 **43.7.2** In the event that the same suggestion is made by different Employees, the allocation of the cash prize will be at the discretion of the Directors.
 
@@ -60,7 +57,10 @@ each contributor.
 
 ### Suggestion Scheme – Entry Form
 
-Employee Name:
-Date:
-Suggestion
+
+| Field | Details |
+|---|---|
+| Employee Name | |
+| Date | |
+| Suggestion | |
 

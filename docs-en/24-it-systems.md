@@ -143,9 +143,7 @@ or commercially damaging activity using AI tools.
 
 
 
-**24.4.4** Employees accessing the Internet do so at their own risk. The Company cannot accept responsibility for material viewed or downloaded or personal data stolen or copied whilst accessing the web through the Company’s
-
-computer systems.
+**24.4.4** Employees accessing the Internet do so at their own risk. The Company cannot accept responsibility for material viewed or downloaded or personal data stolen or copied whilst accessing the web through the Company’s computer systems.
 
 **24.4.5** Exceptional authorisation to access social media sites and job sites may be given by a Director or Human Resources to facilitate company recruitment or for any other reason they consider appropriate.
 
@@ -179,8 +177,11 @@ computer systems.
 | Employee responsible for equipment whilst off-site | |
 | Equipment being taken off-site | |
 Asset Register Number(s) and Serial number(s) of equipment taken off-site:
-Asset Number
-Serial Number
+
+| Field | Details |
+|---|---|
+| Asset Number | |
+| Serial Number | |
 Authorisation from Group IT Associate Director, Company Secretary or Director:
 
 | Field | Details |

@@ -93,35 +93,52 @@ Over 4 hours
 
 Wherever possible, all sections on this form should be completed prior to the leave taking place. Please refer
 to the Employee Handbook and refer to section 25: Leave For Public & Civic Duties Policy & Procedure.
-Section A – To be completed by the Employee (if available)
-Employee Name
-Department
-Reason for Requesting Leave
-(Please attach supporting documentation)
-Number of Days Leave
-Requested
-OR Number of Hours
-Leave Requested
-Date From
-Date To
-Employee’s Signature
-Section B – To be completed by the Employee’s Manager
-(On consulting with Human Resources as necessary)
-Request for Leave Agreed?
-Yes
-No
-Number of Days Paid
-Or
-Number of Hours Paid
-Number of Days Unpaid
-Or
-Number of Hours Unpaid
-Manager’s Signature
-Manager’s Printed Name
-Date
-Section C – To be completed by HR
-HR Signature
-HR Printed Name
-Date
-Send completed form to HR
+
+### Section A – To be completed by the Employee (if available)
+
+
+| Field | Details |
+|---|---|
+| Employee Name | |
+| Department | |
+| Reason for Requesting Leave | |
+*Please attach supporting documentation*
+
+| Field | Details |
+|---|---|
+| Number of Days Leave | |
+| Requested | |
+| OR Number of Hours | |
+| Leave Requested | |
+| Date From | |
+| Date To | |
+| Employee’s Signature | |
+
+### Section B – To be completed by the Employee’s Manager
+
+*On consulting with Human Resources as necessary*
+
+| Field | Details |
+|---|---|
+| Request for Leave Agreed? | |
+| Yes / No | |
+| Number of Days Paid | |
+| Or | |
+| Number of Hours Paid | |
+| Number of Days Unpaid | |
+| Or | |
+| Number of Hours Unpaid | |
+| Manager’s Signature | |
+| Manager’s Printed Name | |
+| Date | |
+
+### Section C – To be completed by HR
+
+
+| Field | Details |
+|---|---|
+| HR Signature | |
+| HR Printed Name | |
+| Date | |
+| Send completed form to HR | |
 

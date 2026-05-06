@@ -73,7 +73,6 @@ title: "Disciplinary"
 
 **13.6.7** The outcome of the disciplinary hearing will usually be advised to the Employee at the disciplinary hearing, after the adjournment, and will be confirmed in writing to the Employee within ten full working days. The written notification
 
-
 will also include the details of the Employee’s right to appeal. There may be times where a longer adjournment is
 required, and in these cases, the Employee will be advised of the timescales, and will receive written notification of
 the outcome.
@@ -183,26 +182,18 @@ formal appeal hearing be convened.
 -  Unauthorised acceptance of gifts, other than items of a trivial nature, e.g. calendars, low value confectionary or similar;
 -  Serious or deliberate misuse or damage of the Company’s property, other Employees’ property, Customer’s property or Supplier’s property;
 -  Deliberate falsification of reports, accounts, expense claims, time sheets or self-certification form;
--  Serious insubordination including rudeness to a manager or refusal to follow reasonable
-
-management instructions;
+-  Serious insubordination including rudeness to a manager or refusal to follow reasonable management instructions;
 -  Incapability through alcohol or being under the influence of or in possession of illegal drugs;
 -  Physical violence, fighting, assault or battery on another person;
 -  Harassment or bullying of another Employee, whether on sexual, racial or other grounds;
--  Abuse of computer privilege, including a serious breach of the Company’s E-mail and internet
-
-Policy and Procedure;
--  Indecent or immoral behaviour, while in the course of their employment with the Company, including accessing and / or distributing offensive or pornographic material, whether obtained from the
-
-Internet or otherwise;
+-  Abuse of computer privilege, including a serious breach of the Company’s E-mail and internet Policy and Procedure;
+-  Indecent or immoral behaviour, while in the course of their employment with the Company, including accessing and / or distributing offensive or pornographic material, whether obtained from the Internet or otherwise;
 -  Misuse of the Company’s name, or bringing into disrepute;
 -  A serious breach of Health and Safety rules or procedures;
 -  Serious negligence which causes unacceptable loss, damage or injury to the Company or to any individual;
 -  Being convicted of a criminal offence, which in the reasonable opinion of the Company demonstrates unsuitability for further employment with the Company;
 -  Unauthorised disclosure of proprietary information relating to the business and/or technology;
--  Intentional or reckless failure to follow health and safety procedures, where such failure could have
-
-serious consequences.
+-  Intentional or reckless failure to follow health and safety procedures, where such failure could have serious consequences.
 
 
 These examples are not exhaustive or exclusive and offences of a similar nature will be dealt with under this disciplinary

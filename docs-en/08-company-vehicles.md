@@ -67,7 +67,6 @@ title: "Company Vehicle Drivers"
 **8.3.1** Employees are responsible for ensuring that the vehicle is serviced and maintained in accordance with the required servicing schedule for the particular vehicle. Only garages authorised by the Company should be used and if the vehicle is still within warranty, only warranty enforceable parts are to be used for repairs to the vehicle. Pool vehicles will be maintained by the Facilities Department.
 
 **8.3.2** Employees should ensure that the vehicle is roadworthy at all times and ensure that they undertake normal routine checks on the vehicle, in particular in relation to the: -
-
 - Tyre Pressure
 - Tyre Tread Depths
 - Oil Levels
@@ -225,9 +224,7 @@ in the accident.
 
 **8.12.2** The Employee shall, on termination of employment for whatever reason, return the vehicle to the appointed location on the day determined by the Company for the return of the vehicle or on the last day of employment if no other date is specified.
 
-**8.12.3** The vehicle shall be returned in a sound, clean and tidy condition. Where this is not the case, the Company reserves the right to charge the Employee a reasonable sum towards the rectification and to deduct this sum from the
-
-Employee’s salary.
+**8.12.3** The vehicle shall be returned in a sound, clean and tidy condition. Where this is not the case, the Company reserves the right to charge the Employee a reasonable sum towards the rectification and to deduct this sum from the Employee’s salary.
 
 **8.12.4** The Company has a responsibility for ensuring that Employees drive in a safe and sensible manner. This Policy is subject to regular review to ensure that it remains compliant with current legislation.
 
@@ -250,32 +247,23 @@ The [Health & Safety](22-health-safety.md) at Work, etc. Act 1984. Management of
 
 Company Policy:
 
+1. Restrict continuous driving to a maximum of four and a half hours before taking a break of 45 minutes.
 
-**1** Restrict continuous driving to a maximum of four and a half hours before taking a break of 45 minutes.
+2. Plan to stop for a 15-minute break on journeys longer than 2 and a half hours
 
+3. Do not plan your schedule so tight that you would have to break speed limits if attempting to meet them
 
-**2** Plan to stop for a 15-minute break on journeys longer than 2 and a half hours
+4. Always drive safely according to the specific road conditions at the time.
 
+5. Do not drive or allow a person to drive without the relevant driving licence and insurance
 
-**3** Do not plan your schedule so tight that you would have to break speed limits if attempting to meet them
+6. Vehicles to be properly maintained as described in the Employee Handbook
 
+7. Always wear a seat belt
 
-**4** Always drive safely according to the specific road conditions at the time.
+8. A maximum of 9 hours driving a day should not be exceeded. Consideration should be given to the overall working day when driving forms a significant part of the day.
 
-
-**5** Do not drive or allow a person to drive without the relevant driving licence and insurance
-
-
-**6** Vehicles to be properly maintained as described in the Employee Handbook
-
-
-**7** Always wear a seat belt
-
-
-**8** A maximum of 9 hours driving a day should not be exceeded. Consideration should be given to the overall working day when driving forms a significant part of the day.
-
-
-**9** A maximum of 45 hours of driving per week should not be exceeded.
+9. A maximum of 45 hours of driving per week should not be exceeded.
 
 Considerations to be taken into account before driving or planning a journey:
 - Make every effort not to drive between midnight and 4:00am.
@@ -296,9 +284,7 @@ RESPONSIBILITIES:
 Line Manager is responsible for:
 - Ensuring employees driving company vehicles on company business are insured and have a current driving license
 - Ensuring that a risk assessment has been carried out for company driving
-- If a risk assessment highlights an employee is a high mileage company driver, appropriate safety driving training should be considered
-
-Driver is responsible for:
+- If a risk assessment highlights an employee is a high mileage company driver, appropriate safety driving training should be considered Driver is responsible for:
 - Adhering to company guidance stated above
 - Driving to road traffic legislation/highway code
 - The driver of a hired vehicle must adhere to the rental agreement, terms and conditions and has responsibility to ensure that the rental vehicle is roadworthy and appropriately insured

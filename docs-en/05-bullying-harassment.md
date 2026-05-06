@@ -25,9 +25,7 @@ title: "Bullying and Harassment"
 
 **5.2.4** Different people find different things acceptable. Everyone has the right to decide what behaviour is acceptable to them and to have their feelings respected by others.
 
-**5.2.5** These responsibilities extend beyond the workplace to any environment where work-related activities take place
-
-(e.g. social gatherings organised by the Company).
+**5.2.5** These responsibilities extend beyond the workplace to any environment where work-related activities take place (e.g. social gatherings organised by the Company).
 
 **5.2.6** If the complainant or alleged harasser is not employed by the Company, e.g. if the worker’s contract is with an agency, this Policy will apply with any necessary modifications. For example, if the alleged harasser is not an Employee, the Company could not dismiss the worker but would instead require the agency to remove the worker, if appropriate, after investigation and disciplinary proceedings.
 
@@ -109,9 +107,7 @@ The Employee’s Responsibilities
 - Appeal Process.
 
 
-**5.5.3** If you are sure you are being bullied or harassed, then there are a number of options that will help the
-
-resolution process.
+**5.5.3** If you are sure you are being bullied or harassed, then there are a number of options that will help the resolution process.
 
 **5.5.4** Keep a diary of all incidents, records of times, dates, any witnesses, your feelings etc. Keep copies of anything that you think is relevant, for instance memos, emails. Bullying and harassment is often revealed through patterns of behaviour and frequency of incidents.
 
@@ -128,9 +124,7 @@ resolution process.
 
 **5.6.4** The Employee should keep a note of the date and what was said and done. This will be useful evidence if the unacceptable behaviour continues and they wish to make a formal complaint.
 
-**5.6.5** The Employee may find it useful to discuss the complaint with a colleague or have a colleague present during
-
-the meeting.
+**5.6.5** The Employee may find it useful to discuss the complaint with a colleague or have a colleague present during the meeting.
 
 **5.6.6** If you are in any doubt as to whether the incident constitutes harassment, then, in the first instance you should approach your Line Manager or the Human Resources on an informal basis.
 

@@ -53,25 +53,25 @@ title: "Health & Safety"
 | Work Location | |
 | Immediate Supervisor | |
 | Manager | |
-Nature of Safety concern:
-Desired solution to concern:
+| Nature of Safety concern | |
+| Desired solution to concern | |
 Efforts that have been made to resolve the concern following discussions with your Supervisor or Manager
 Supervisor -  once form  is counter signed & dated please;
 (1) Pass onto Manager/Director for resolution. (2) Tick box as necessary
-Action Needed
 
 | Field | Details |
 |---|---|
+| Action Needed | |
 | Employee’s Signature | |
 | Date | |
 | Supervisor’s Signature | |
 | Date | |
 THIS FORM IS TO BE USED: To report an on going Health and Safety issue(s) and concerns that have previously been
 discussed with your immediate Supervisor or Manager but not been resolved
-No Action Needed
 
 | Field | Details |
 |---|---|
+| No Action Needed | |
 | Line Manager/Director Name | |
 | Agreed Actions | |
 | Line Manager/Director Signature | |

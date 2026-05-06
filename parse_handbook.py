@@ -186,6 +186,35 @@ FORM_DOTS_RE = re.compile(r'^[._\s]{8,}$')
 # Any line containing 5+ consecutive dots/underscores — treat as form field(s)
 FORM_HAS_DOTS_RE = re.compile(r'[._]{5,}')
 
+# Garbled section number patterns from PDF extraction:
+#   "43. 1\t..." → "43.1\t..."   (space after dot)
+#   "25 .1\t..." → "25.1\t..."   (space before dot)
+GARBLED_NUM_A = re.compile(r'^(\d+)\.\s+(\d)')   # "43. 1"  →  "43.1"
+GARBLED_NUM_B = re.compile(r'^(\d+)\s+\.(\d)')   # "25 .1"  →  "25.1"
+
+# FAQ question: short line ending with '?', starting with a question word
+FAQ_QUESTION_RE = re.compile(
+    r'^(What|How|Will|Why|When|Do|Does|Can|Are|Is|Should|Would|I |If )',
+    re.IGNORECASE
+)
+
+# ALL-CAPS header keywords that signal the start of a form appendix
+_FORM_HEADER_WORDS = {'FORM', 'APPLICATION', 'ENTRY', 'REQUEST', 'DETAILS',
+                      'NOTICE', 'RECORD', 'DECLARATION', 'CERTIFICATE'}
+
+# "Section A", "Section B –", "Part A", "Part B" sub-headings within form appendices
+FORM_SUBSECTION_RE = re.compile(
+    r'^(Section|Part)\s+[A-Z]\b', re.IGNORECASE
+)
+
+# Phrases that signal a line is instruction/body text, not a form field label
+_FORM_BODY_STARTS = (
+    'Wherever ', 'Please ', 'I agree', 'I confirm', 'I understand', 'I wish ',
+    'You have', 'You may', 'You should', 'You are',
+    'By signing', 'On consulting', 'Under the ', 'In summary', 'In addition',
+    'Don\'t ', 'The Company', 'This form',
+)
+
 # Known sentence-starter words that mean the next line is body text, not a heading title
 _BODY_STARTS = (
     'The ', 'This ', 'If ', 'Where ', 'In ', 'An ', 'A ', 'Each ', 'For ',
@@ -195,16 +224,29 @@ _BODY_STARTS = (
 )
 
 
+def normalize_line(line: str) -> str:
+    """Fix garbled section numbers caused by PDF extraction artefacts."""
+    s = line.strip()
+    s = GARBLED_NUM_A.sub(r'\1.\2', s)   # "43. 1..." → "43.1..."
+    s = GARBLED_NUM_B.sub(r'\1.\2', s)   # "25 .1..." → "25.1..."
+    return s
+
+
 def looks_like_heading_title(line: str) -> bool:
     """True if `line` looks like a section heading title rather than body text."""
     s = line.strip()
     if not s or len(s) > 90:
         return False
-    if s.endswith(('.', ',', ';', ':')):
+    if s.endswith(('.', ',', ';', ':', '?')):
         return False
     if any(s.startswith(w) for w in _BODY_STARTS):
         return False
     return True
+
+
+def looks_like_faq_question(s: str) -> bool:
+    """True if `s` looks like a FAQ question (short, ends ?, starts with question word)."""
+    return (s.endswith('?') and len(s) <= 120 and bool(FAQ_QUESTION_RE.match(s)))
 
 
 def is_noise(line: str) -> bool:
@@ -283,10 +325,10 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
     in_form_table = False  # track whether we're inside a markdown table block
 
     def peek_next_content(start):
-        """Return (index, stripped_line) of the next non-empty, non-noise line."""
+        """Return (index, normalized_stripped_line) of next non-empty, non-noise line."""
         j = start
         while j < n:
-            s = lines[j].strip()
+            s = normalize_line(lines[j])
             if s and not is_noise(lines[j]):
                 return j, s
             j += 1
@@ -294,16 +336,26 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
 
     def collect_body(start):
         """Collect contiguous body-text continuation lines from `start`.
-        Stops at blank lines, noise, or any structural marker.
+        Stops at blank lines (unless mid-sentence), noise, or structural markers.
         Returns (end_index, joined_text).
         """
         parts = []
         k = start
+        blank_streak = 0
         while k < n:
-            cs = lines[k].strip()
+            raw_line = lines[k]
+            cs = normalize_line(raw_line)
             if not cs:
+                blank_streak += 1
+                # Cross a single whitespace-only line if accumulated text ends mid-sentence
+                if blank_streak == 1 and parts:
+                    last = parts[-1].rstrip()
+                    if last and last[-1] not in '.?!;:':
+                        k += 1
+                        continue
                 break
-            if is_noise(lines[k]):
+            blank_streak = 0
+            if is_noise(raw_line):
                 k += 1
                 continue
             if (NUM_ONLY_RE.match(cs) or NUM_INLINE_RE.match(cs) or
@@ -311,13 +363,15 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
                 break
             if cs == cs.upper() and len(cs.split()) >= 2 and not cs.startswith('N.B') and len(cs) > 6:
                 break
+            if looks_like_faq_question(cs):
+                break
             parts.append(cs)
             k += 1
         return k, ' '.join(parts)
 
     # Skip any leading top-level section number (e.g. "2.") and its title.
     while i < n:
-        s = lines[i].strip()
+        s = normalize_line(lines[i])
         if re.match(r'^\d+\.\s*$', s):
             i += 1
             j, ns = peek_next_content(i)
@@ -328,7 +382,7 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
 
     while i < n:
         raw = lines[i]
-        s = raw.strip()
+        s = normalize_line(raw)  # fix garbled numbers like "43. 1" → "43.1"
 
         # --- Skip noise lines ---
         if not s:
@@ -398,6 +452,29 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
             # Collect any continuation lines
             k, cont_text = collect_body(i + 1)
             full_text = (first_text + ' ' + cont_text).strip() if cont_text else first_text
+
+            if depth == 0:
+                num_int = int(num) if num.isdigit() else 0
+                if first_text and first_text[0].isdigit():
+                    # Garbled subsection still not caught by normalization (e.g. num=section)
+                    # Extract sub-number and treat as depth-1 heading
+                    parts_ft = full_text.split(None, 1)
+                    sub_n = parts_ft[0].strip('.')
+                    sub_title = apply_crosslinks(parts_ft[1].strip() if len(parts_ft) > 1 else '', filename)
+                    out.append('')
+                    out.append(f'## {num}.{sub_n} {sub_title}')
+                    out.append('')
+                elif 1 <= num_int <= 100:
+                    # Simple numbered list item like "1.  Text"
+                    linked = apply_crosslinks(full_text, filename)
+                    out.append(f'{num}. {linked}')
+                else:
+                    # Year or other spurious match (e.g. "1998. If...") — emit as plain text
+                    linked = apply_crosslinks(full_text, filename)
+                    out.append(linked)
+                i = k
+                continue
+
             full_text = apply_crosslinks(full_text, filename)
             if depth == 1:
                 out.append('')
@@ -439,6 +516,10 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
             out.append('')
             out.append(f'### {s.title()}')
             out.append('')
+            # If the header signals a form section, enter form-table mode for bare labels
+            words = set(s.split())
+            if words & _FORM_HEADER_WORDS:
+                in_form_table = True
             i += 1
             continue
 
@@ -449,19 +530,88 @@ def convert_section(sec_num: int, sec_title: str, filename: str, raw_lines: list
             labels = [p.strip().rstrip(':').strip() for p in parts
                       if p.strip() and p.strip() not in ('or', 'and', '*', '')]
             if labels:
-                if not in_form_table:
+                last_nonempty = next((l for l in reversed(out) if l.strip()), '')
+                if not last_nonempty.startswith('|'):
                     out.append('')
                     out.append('| Field | Details |')
                     out.append('|---|---|')
-                    in_form_table = True
+                in_form_table = True
                 for label in labels:
                     out.append(f'| {label} | |')
             i += 1
             continue
 
-        # --- Regular paragraph line ---
-        if in_form_table:
+        # --- FAQ question line (short line ending with '?') ---
+        if looks_like_faq_question(s):
+            if in_form_table:
+                in_form_table = False
+            out.append('')
+            out.append(f'### {s}')
+            out.append('')
+            i += 1
+            continue
+
+        # --- "Section A –" / "Part B –" sub-headings within form appendices ---
+        if in_form_table and FORM_SUBSECTION_RE.match(s):
             in_form_table = False
+            out.append('')
+            out.append(f'### {s}')
+            out.append('')
+            # Re-enter form table mode after this sub-heading
+            in_form_table = True
+            i += 1
+            continue
+
+        # --- Parenthetical notes within forms: "(your relationship to child)" ---
+        if in_form_table and s.startswith('(') and s.endswith(')'):
+            # Add as italic note, but keep form context active
+            out.append(f'*{s[1:-1]}*')
+            i += 1
+            continue
+
+        # --- "Yes" / "No" radio options in form context ---
+        if in_form_table and s in ('Yes', 'No', 'Yes ', 'No '):
+            # Look ahead: if next is the other option, combine into one row
+            j2, next_s2 = peek_next_content(i + 1)
+            if (s.strip() == 'Yes' and next_s2.strip() == 'No') or \
+               (s.strip() == 'No' and next_s2.strip() == 'Yes'):
+                last_nonempty = next((l for l in reversed(out) if l.strip()), '')
+                if not last_nonempty.startswith('|'):
+                    out.append('')
+                    out.append('| Field | Details |')
+                    out.append('|---|---|')
+                out.append('| Yes / No | |')
+                i = j2 + 1
+            else:
+                i += 1  # skip standalone Yes/No
+            continue
+
+        # --- Bare form label (e.g. "Employee Name:" or bare "Employee Name") ---
+        is_colon_label = (s.endswith(':') and len(s.split()) <= 6 and not s[0].isdigit())
+        is_bare_label = (
+            in_form_table
+            and len(s.split()) <= 7
+            and not s.endswith(('.', '!', ','))
+            and not s.startswith('(')
+            and not any(s.startswith(w) for w in _FORM_BODY_STARTS)
+            and not s[0].isdigit()
+            and not looks_like_faq_question(s)  # skip real FAQ questions
+        )
+        if (in_form_table and is_colon_label) or is_bare_label:
+            label = s.rstrip(':').strip()
+            # Emit table header if we haven't already started a table
+            last_nonempty = next((l for l in reversed(out) if l.strip()), '')
+            if not last_nonempty.startswith('|'):
+                out.append('')
+                out.append('| Field | Details |')
+                out.append('|---|---|')
+            out.append(f'| {label} | |')
+            i += 1
+            continue
+
+        # --- Regular paragraph line ---
+        # Don't reset in_form_table here — form sections can have instruction text
+        # mixed with field lines. Only blank lines reset form context.
         linked = apply_crosslinks(s, filename)
         out.append(linked)
         i += 1

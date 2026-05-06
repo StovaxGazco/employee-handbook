@@ -24,9 +24,7 @@ title: "Shared Parental Leave"
 
 **38.3.2** Mothers will continue to be entitled to 26 weeks Ordinary and 26 weeks additional [Maternity Leave](28-maternity-pregnancy.md) as they are now. Mothers rights during maternity will remain the same as will maternity pay entitlements.
 
-**38.3.3** Mothers can elect to bring maternity leave to an end early and opt into a period of Shared Parental Leave and
-
-pay instead.
+**38.3.3** Mothers can elect to bring maternity leave to an end early and opt into a period of Shared Parental Leave and pay instead.
 
 **38.3.4** Ordinary [Paternity Leave](34-paternity.md) must be taken during the 8 weeks following the birth of the child (but is not compulsory) and may not be shared with the mother.
 

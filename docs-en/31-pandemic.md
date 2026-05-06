@@ -138,7 +138,6 @@ title: "Pandemic Management at Work"
 
 **31.10.2** The Company has a designated Employee Assistance Programme via BUPA Healthcare which is available to all employees https://cbt.bupa.com/signup/. This service is entirely confidential and is also available to partners and
 
-
 other dependants over the age of 16. Leaflets and posters are visible throughout the Company detailing how to access
 this service. The details are also available via Public Folders and in [Section 30](30-mobile-phone.md) of the Employee Handbook.
 
@@ -167,9 +166,7 @@ this service. The details are also available via Public Folders and in [Section 
 ## 31.13 EMERGENCY RESPONDERS AND FIRST AID
 
 
-**31.13.1** The Company, whilst following the guidelines of the HSE ([Health & Safety](22-health-safety.md) Executive), recognise that during a pandemic, we may not be able to continue to obtain and renew Emergency Responders or First-Aid training provision, and will ensure that we can still provide the cover needed for the Employees that are present and the activities that we
-
-are doing.
+**31.13.1** The Company, whilst following the guidelines of the HSE ([Health & Safety](22-health-safety.md) Executive), recognise that during a pandemic, we may not be able to continue to obtain and renew Emergency Responders or First-Aid training provision, and will ensure that we can still provide the cover needed for the Employees that are present and the activities that we are doing.
 
 **31.13.2** The Company will be issuing new guidance regarding Cardiopulmonary Resuscitation (CPR), and best practice to all relevant staff when administering first aid, which has been published in response to the pandemic crisis.
 

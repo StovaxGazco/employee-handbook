@@ -10,9 +10,7 @@ title: "Expenses"
 
 **17.1.1** The Company will reimburse Employees all expenses properly incurred by the Employee in the proper performance of the Employee’s duties and approved by their Line Manager in accordance with this Policy, provided that the Employee provides the Company with supporting vouchers or other evidence of actual payment of such expenses as the Company may require.  Claims for expenditure which is over 3 months old will not be reimbursed, without the additional approval of a Director of the Company.
 
-**17.1.2** The Company uses a Concur system for all expenses and training on this system will be provided by Finance for
-
-new users.
+**17.1.2** The Company uses a Concur system for all expenses and training on this system will be provided by Finance for new users.
 
 ## 17.2 Process for Expenses
 
@@ -33,9 +31,7 @@ submitted will cause delays which could result in it missing the BACS run and de
 
 Company Credit Card
 
-**17.3.1** Where a need arises for a company Credit Card, the Employee will be required to complete a “Credit Card Agreement” and either a ‘Gazco consent form, or a Stovax Consent form’.  These forms will then be sent to management
-
-accounts@stovax.com by the Employee’s Line Manager.
+**17.3.1** Where a need arises for a company Credit Card, the Employee will be required to complete a “Credit Card Agreement” and either a ‘Gazco consent form, or a Stovax Consent form’.  These forms will then be sent to management accounts@stovax.com by the Employee’s Line Manager.
 
 **17.3.2** Employees submitting claims for company cards should be aware of:
 - Claims for company paid and personal paid must be submitted in a single claim.  The Employee cannot submit a personal claim and a company card claim separately.
@@ -58,15 +54,12 @@ accounts@stovax.com by the Employee’s Line Manager.
 
 **17.6.1** For mileage claims, the Employee should submit a mileage line and a ‘fuel for mileage’ line (a receipt should be attached to the ‘fuel for mileage line’).  The system will calculate whether there are enough receipts to claim back
 
-
 the total VAT and raise an alert if not.  Receipts attached to the ‘mileage claim’ will not be picked up and will be
 automatically rejected.
 
 **17.6.2** Mileage rates applicable will be amended from time to time and a note detailing the changes circulated by the Finance Director.
 
-**17.6.3** Where possible a pool car should be used by other drivers for short distances or a hire car for a longer journey. Where, exceptionally an Employee uses their own vehicle the Employee is responsible for ensuring that their vehicle is roadworthy and taxed and appropriately insured.  The Company’s insurance policy will cover journeys between sites or on local company business. It does not cover use of an Employee’s own car for business purposes outside the
-
-Exeter area.
+**17.6.3** Where possible a pool car should be used by other drivers for short distances or a hire car for a longer journey. Where, exceptionally an Employee uses their own vehicle the Employee is responsible for ensuring that their vehicle is roadworthy and taxed and appropriately insured.  The Company’s insurance policy will cover journeys between sites or on local company business. It does not cover use of an Employee’s own car for business purposes outside the Exeter area.
 
 ## 17.7 Expense Claims
 
@@ -85,9 +78,7 @@ Exeter area.
 
 **17.8.1** Employees are entitled to reasonable meals for subsistence when travelling.  Any meals which are  excessive for the location in which they are incurred can result in a taxable benefit from HMRC’s perspective and may be rejected for reimbursement at the managers discretion.
 
-**17.8.2** Expenses relating to other Employees may be included on a claim but must be separately identified and supported
-
-by receipts.
+**17.8.2** Expenses relating to other Employees may be included on a claim but must be separately identified and supported by receipts.
 
 **17.8.3** Where several Employees are present at an event, payment should be made by the most senior Employee and the expense submitted to their Line Manager for approval.  The claim should indicate all Employees to which the expense relates. All events of this nature must be approved in advance by a Director.
 

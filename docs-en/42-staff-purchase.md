@@ -8,9 +8,7 @@ title: "Staff Purchase"
 ## 42.1 Purpose and Scope
 
 
-**42.1.1** All Employees will be entitled to participate in the Staff Purchase Scheme and will be able to buy Group products at cost + 15% after they have successfully completed their probationary period and completed the Staff Purchase
-
-Order Form.
+**42.1.1** All Employees will be entitled to participate in the Staff Purchase Scheme and will be able to buy Group products at cost + 15% after they have successfully completed their probationary period and completed the Staff Purchase Order Form.
 
 
 **42.1.2** VAT at the prevailing rate will then be added to the above price.
@@ -46,32 +44,35 @@ Order Form.
 
 ### Staff Quotation & Purchase Order Form
 
-Employee Name:
-Extension No:
-Company:
-Department:
-Start Date:
-Name:
-Relationship:
-Address including
-postcode at which
-goods are to be
-installed/fitted:
-Details of person(s) for whom goods are being purchased:
-Order Details:
-Company ordering from:
-Product Code
-Description
-Qty
-Price Quoted (£ Ex. VAT)
 
 | Field | Details |
 |---|---|
+| Employee Name | |
+| Extension No | |
+| Company | |
+| Department | |
+| Start Date | |
+| Name | |
+| Relationship | |
+| Address including | |
+| postcode at which | |
+| goods are to be | |
+| installed/fitted | |
+Details of person(s) for whom goods are being purchased:
+
+| Field | Details |
+|---|---|
+| Order Details | |
+| Company ordering from | |
+| Product Code | |
+| Description | |
+| Qty | |
+| Price Quoted (£ Ex. VAT) | |
 | Signature | |
 | Date | |
-Company employed by:
-Collection Details
-Order Ref/Del. Note No:
+| Company employed by | |
+| Collection Details | |
+| Order Ref/Del. Note No | |
 
 ### For Office Use Only
 

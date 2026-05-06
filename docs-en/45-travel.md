@@ -27,17 +27,13 @@ title: "Travel"
 
 **45.2.2** Private Car:  Employees are permitted to claim motor mileage allowance.  See section 17 of the [Expenses Policy](17-expenses.md) & Procedure in the Employee Handbook.
 
-**45.2.3** Company Vehicles: Employees should refer to section 17 of the [Expenses Policy](17-expenses.md) & Procedure in the
-
-Employee Handbook.
+**45.2.3** Company Vehicles: Employees should refer to section 17 of the [Expenses Policy](17-expenses.md) & Procedure in the Employee Handbook.
 
 **45.2.4** Hire Cars:  All hire cars should be booked through the Company’s preferred car hire companies.
 
 **45.2.5** The standard of vehicle that should be booked is a group C or D.
 
-**45.2.6** There may be a few exceptions when a bigger vehicle is required, and these should be agreed in advance with
-
-a Director.
+**45.2.6** There may be a few exceptions when a bigger vehicle is required, and these should be agreed in advance with a Director.
 
 **45.2.7** Where cars are provided with a full tank of fuel, they should be returned to the car hire provider full in order to avoid expensive refuelling costs.
 
@@ -79,9 +75,7 @@ a Director.
 
 **45.7.1** Under the [Health & Safety](22-health-safety.md) at Work Act 1974, all Employees must take reasonable care for their health and safety.  See [Section 22](22-health-safety.md) [Health & Safety](22-health-safety.md) Policy and Procedure in the Employee Handbook.
 
-**45.7.2** Immunisation and health information should be considered and checked for all countries.  This can be obtained f
-
-rom www.dh.gov.uk/travellers.
+**45.7.2** Immunisation and health information should be considered and checked for all countries.  This can be obtained f rom www.dh.gov.uk/travellers.
 
 ## 45.8 Working Time Directive
 

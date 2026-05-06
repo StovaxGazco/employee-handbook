@@ -21,9 +21,7 @@ title: "Special Leave"
 
 **41.2.3** When considering whether a request is agreed the Line Manager will consider the needs of the business to ensure there will be no adverse impact on the business.
 
-**41.2.4** To support the entitlements outlined below, Employees may be required to supplement Special Leave with
-
-Annual Leave.
+**41.2.4** To support the entitlements outlined below, Employees may be required to supplement Special Leave with Annual Leave.
 
 **41.2.5** All reasonable requests for Special Leave will be given due consideration. However, if it is not possible to grant requests due to business requirements, and an Employee subsequently  does not attend work, this may be classed as ‘unauthorised absence’ and could lead to disciplinary action, depending on the precise circumstances.
 
@@ -66,13 +64,9 @@ Annual Leave.
 ## 41.6 Religious and Cultural Observance
 
 
-**41.6.1** There are some Employees who have particular needs for time off in relation to religious or cultural observance.  This may be on a daily or weekly basis for a small number of staff, but more often, will involve requests for a day off for a particular religious or cultural occasions, particularly if this occurs on a date which is not observed as a UK
+**41.6.1** There are some Employees who have particular needs for time off in relation to religious or cultural observance.  This may be on a daily or weekly basis for a small number of staff, but more often, will involve requests for a day off for a particular religious or cultural occasions, particularly if this occurs on a date which is not observed as a UK bank holiday.
 
-bank holiday.
-
-**41.6.2** All Employees who have needs for time off for religious or cultural observance will be entitled to request
-
-the following: -
+**41.6.2** All Employees who have needs for time off for religious or cultural observance will be entitled to request the following: -
 - Flexibility in the arrangements of shifts, rotas and working hours generally
 - Annual Leave
 - [Flexi Time](19-flexi-time.md) (in accordance with the [Flexi Time Policy](19-flexi-time.md) & Procedure)
@@ -103,39 +97,56 @@ All other Leave Requests
 ### Request For Special Leave
 
 Wherever possible, all sections on this form should be completed prior to the leave taking place.
-Section A – To be completed by the Employee (if available)
-Employee Name
-Department
-Reason for Requesting
-Special Leave
+
+### Section A – To be completed by the Employee (if available)
+
+
+| Field | Details |
+|---|---|
+| Employee Name | |
+| Department | |
+| Reason for Requesting | |
+| Special Leave | |
 (Attach supporting documentation,
-if applicable, e.g. hospital
-appointment letter)
-Number of Days Leave
-Requested
-OR Number of Hours
-Leave Requested
-Date From
-Date To
-Employee’s Signature
-Section B – To be completed by the Employee’s Manager
-(On consulting with Human Resources as necessary)
-Request for Special
-Leave Agreed?
-Yes
-No
-Number of Days Paid
-Or
-Number of Hours Paid
-Number of Days Unpaid
-Or
-Number of Hours Unpaid
-Manager’s Signature
-Manager’s Printed Name
-Date
-Section C – To be completed by Payroll
-(I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook)
-Payroll’s Signature
-Payroll’s Printed Name
-Date
+
+| Field | Details |
+|---|---|
+| if applicable, e.g. hospital | |
+| appointment letter) | |
+| Number of Days Leave | |
+| Requested | |
+| OR Number of Hours | |
+| Leave Requested | |
+| Date From | |
+| Date To | |
+| Employee’s Signature | |
+
+### Section B – To be completed by the Employee’s Manager
+
+*On consulting with Human Resources as necessary*
+
+| Field | Details |
+|---|---|
+| Request for Special | |
+| Leave Agreed? | |
+| Yes / No | |
+| Number of Days Paid | |
+| Or | |
+| Number of Hours Paid | |
+| Number of Days Unpaid | |
+| Or | |
+| Number of Hours Unpaid | |
+| Manager’s Signature | |
+| Manager’s Printed Name | |
+| Date | |
+
+### Section C – To be completed by Payroll
+
+*I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook*
+
+| Field | Details |
+|---|---|
+| Payroll’s Signature | |
+| Payroll’s Printed Name | |
+| Date | |
 

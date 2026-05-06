@@ -23,7 +23,6 @@ title: "Absence Management (Sickness)"
 
 **2.2.1** The Employee has a responsibility to assist the Company in achieving its attendance targets, these include the following: -
 
-
 **2.2.2** The Employee has a responsibility to keep their absence to a minimum.
 
 **2.2.3** Employees have a responsibility to maintain reasonable health standards, to support a safe working environment for themselves and their colleagues, and to take reasonable precautions against illness and accidents.
@@ -45,7 +44,6 @@ title: "Absence Management (Sickness)"
 
 
 **2.4.1** If an Employee cannot attend work because the Employee is ill or injured, the Employee should telephone their Line Manager as early as possible, and no later than 30 minutes after the time the Employee is normally expected to start work.  Where it is not possible for the Employee to call themselves, a family member is permitted to call on their behalf, but only if this is not possible for the Employee to call.  The following details should be provided: -
-
 - The nature of their illness or injury;
 - The expected length of their absence from work;
 
@@ -83,9 +81,7 @@ It is important to keep the company advised of any return to work date.
 
 **2.6.1** Cases of unauthorised absence will be dealt with under the Company’s [Disciplinary Procedure](13-disciplinary.md).
 
-**2.6.2** Absence that has not been notified according to the sickness absence reporting procedure will be treated as unauthorised absence and will normally be unpaid, except in exceptional circumstances which must be approved by
-
-a Director.
+**2.6.2** Absence that has not been notified according to the sickness absence reporting procedure will be treated as unauthorised absence and will normally be unpaid, except in exceptional circumstances which must be approved by a Director.
 
 **2.6.3** If the Employee does not report for work and has not telephoned their Line Manager to explain the reason for their absence, their Line Manager and/or Human Resources will try to contact the Employee, by telephone, and in writing if necessary.  This should not be treated as a substitute for reporting sickness absence.
 
@@ -192,9 +188,7 @@ For example:
 ## 2.15 Sickness Absence Meetings Procedure
 
 
-**2.15.1** The Company may apply this procedure whenever the Company consider it necessary, including, for example,
-
-if the Employee: -
+**2.15.1** The Company may apply this procedure whenever the Company consider it necessary, including, for example, if the Employee: -
 - Has been absent due to illness on a number of occasions and has reached the trigger levels in section 2.16;
 - Has discussed matters at a return-to-work interview that require investigation;
 - Has been absent for more than four weeks and/or
@@ -202,9 +196,7 @@ if the Employee: -
 
 **2.15.2** Unless it is impractical to do so, the Company will give the Employee at least two days’ written notice of the date, time and place of a sickness absence meeting.  The Company will put any concerns about their sickness absence and the basis for those concerns in writing or otherwise why the meeting is being called.  A reasonable opportunity for the Employee to consider this information before a meeting will be provided.
 
-**2.15.3** The meeting will usually be conducted by the Employee’s Line Manager and will be attended by a member of the Human Resources Department.  The Employee may bring a companion with the Employee to the meeting
-
-(See section 2.17).
+**2.15.3** The meeting will usually be conducted by the Employee’s Line Manager and will be attended by a member of the Human Resources Department.  The Employee may bring a companion with the Employee to the meeting (See section 2.17).
 
 **2.15.4** The Employee must take all reasonable steps to attend a meeting.  Failure to do so, without good reason, may be treated as misconduct.  If the Employee or their companion are unable to attend at the time specified, the Employee should immediately inform their Line Manager and/or Human Resources who will seek to agree an alternative time.
 
@@ -248,10 +240,7 @@ if the Employee: -
 
 The Company will refer to the Bradford Factor report for instances of frequent short term absences.
 
-**2.16.9** Where there is no evidence of an underlying medical reason for the frequent short term absences, the Company will apply the following trigger points: -
-
-100 points and 3 occurrences will usually result in a Level One Warning. This is given at the Return to Work Interview
-(Section 2.13) by the Line Manager, and then confirmed in writing to the Employee by Human Resources.
+**2.16.9** Where there is no evidence of an underlying medical reason for the frequent short term absences, the Company will apply the following trigger points: - 100 points and 3 occurrences will usually result in a Level One Warning. This is given at the Return to Work Interview (Section 2.13) by the Line Manager, and then confirmed in writing to the Employee by Human Resources.
 
 200 points and 4 occurrences – If the Employee fails to achieve the standards set out at level one, then a formal
 meeting may be held to review attendance.  The Employee will be required to provide an explanation for their absence
@@ -272,7 +261,6 @@ they can reduce their absence.  At this stage, if the Company is satisfied that:
 - the Employee’s attendance is unlikely to improve within a reasonable period;
 - that there is nothing further that the Company can reasonably do to help the Employee improve and maintain a satisfactory attendance record;
 - the Employee has unreasonably refused to co-operate in the trial of any adjustments that have been reasonably proposed by the Company,
-
 
 the Employee may be dismissed in accordance with this procedure on the basis that the Employee is no longer capable
 of doing work of the kind that they were employed to do.
@@ -381,7 +369,10 @@ The company will also take into consideration:
 
 ### Personal Details
 
-Employee Name
+
+| Field | Details |
+|---|---|
+| Employee Name | |
 
 Department
 
@@ -432,7 +423,9 @@ No. of
 Working
 Days Absent
 
-Doctor’s Fit Note Obtained?
+
+### Doctor’s Fit Note Obtained?
+
 Yes
 
 No
@@ -445,7 +438,9 @@ Yes
 
 No
 
-Doctor’s Fit Note Attached?
+
+### Doctor’s Fit Note Attached?
+
 Yes
 
 No
@@ -596,7 +591,9 @@ Did the Employee seek medical
 assistance during the period of
 absence?
 
-If yes, what assistance?
+
+### If yes, what assistance?
+
 
 Is the Employee on any
 medication which may affect

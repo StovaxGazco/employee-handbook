@@ -34,9 +34,7 @@ Please contact Human Resources if you have any queries in relation to this proce
 
 **21.2.5** The Employee must take all reasonable steps to attend any meeting arranged to discuss their grievance.  A representative from Human Resources will also be present and will keep a record of what is discussed and any outcomes agreed at the meeting.
 
-**21.2.6** An Employee may be accompanied (if he/she reasonably requests) to any meeting at which their grievance is discussed with them, and at any subsequent appeal hearing, by another Employee of the Company or Trade Union Representative in line with the statutory right to be accompanied.  The Company may, at its discretion, allow an Employee to bring a companion who is not an Employee (for example, a member of the Employee’s family) where this will help overcome a particular difficulty caused by a disability, or where the Employee has difficulty
-
-understanding English.
+**21.2.6** An Employee may be accompanied (if he/she reasonably requests) to any meeting at which their grievance is discussed with them, and at any subsequent appeal hearing, by another Employee of the Company or Trade Union Representative in line with the statutory right to be accompanied.  The Company may, at its discretion, allow an Employee to bring a companion who is not an Employee (for example, a member of the Employee’s family) where this will help overcome a particular difficulty caused by a disability, or where the Employee has difficulty understanding English.
 
 
 

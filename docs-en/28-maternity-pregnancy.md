@@ -14,9 +14,7 @@ title: "Maternity & Pregnancy"
 
 maternity leave.
 
-**28.1.3** The Policy details the support that is available during the period of pregnancy and maternity and encourages open communication which will help both parties and ensure any problems or difficulties can be resolved as quickly
-
-as possible.
+**28.1.3** The Policy details the support that is available during the period of pregnancy and maternity and encourages open communication which will help both parties and ensure any problems or difficulties can be resolved as quickly as possible.
 
 ## 28.2 Purpose and Scope
 
@@ -338,5 +336,8 @@ I write to confirm that I shall be returning to work on the date below after tak
 | Signature | |
 | Date | |
 (This notification must be returned no later than eight weeks before the date notified above and should be sent to your
-manager.)
+
+| Field | Details |
+|---|---|
+| manager.) | |
 

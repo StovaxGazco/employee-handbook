@@ -27,7 +27,10 @@ statutory rights. If Employees have any questions about this policy, they should
 
 **36.2.7** This Policy applies to all permanent Employees of the Company, irrespective of seniority or department.
 
-## 36.3 What is the Right to Flexible Working?
+## 36.3
+
+
+### What is the Right to Flexible Working?
 
 
 **36.3.1** Employees have the right to make a request for flexible working.  Flexible working could include the following but is not limited to:
@@ -37,8 +40,9 @@ statutory rights. If Employees have any questions about this policy, they should
 - Job sharing;
 - Term time working.
 
-## 36.4 Who Qualifies?
+## 36.4
 
+Who Qualifies?
 
 **36.4.1** The Employee will have the right to request flexible working if:
 - The Employee is a permanent Employee and is not a contractor or temporary member of staff employed via an agency.
@@ -84,9 +88,7 @@ The Meeting
 
 **36.5.8** Where an Employee has made a fraudulent application the Company may consider disciplinary action.
 
-**36.5.9** In most cases the Line Manager will make a decision following the meeting, once all the information has been evaluated. The Line Manager must write to the Employee within 14 working days confirming the outcome of
-
-the meeting.
+**36.5.9** In most cases the Line Manager will make a decision following the meeting, once all the information has been evaluated. The Line Manager must write to the Employee within 14 working days confirming the outcome of the meeting.
 
 **36.5.10** If the Line Manager has agreed to Flexible Working, the letter should confirm the new working pattern, the agreed start date, the impact, if any, to the pay and conditions and confirmation the arrangement will be a permanent change to the Contract of Employment.
 
@@ -129,9 +131,7 @@ for appeal.
 ## 36.7 Extension to Timescales
 
 
-**36.7.1** There may be occasions where the Line Manager requires additional time to consider a request for Flexible Working. Any extension to the timescales must be confirmed in writing, including a full explanation for the reasons for
-
-this request.
+**36.7.1** There may be occasions where the Line Manager requires additional time to consider a request for Flexible Working. Any extension to the timescales must be confirmed in writing, including a full explanation for the reasons for this request.
 
 
 ### Request For Flexible Working
@@ -154,7 +154,10 @@ Describe your current working pattern, to include the days, hours and times you 
 Describe your current role, to include the responsibilities, interaction with other employees / departments or customers:
 Describe the working pattern you would like the business to consider you work in the future, and the reasons why you are making this
 request.  Include the days, hours and times you wish to work. Please detail any impact you believe the changes may have on your salary
-or benefits package:
+
+| Field | Details |
+|---|---|
+| or benefits package | |
 
 
 Describe the impact your requested work pattern may have on your colleagues, customers, productivity and company resources.

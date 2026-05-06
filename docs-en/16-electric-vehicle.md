@@ -8,9 +8,7 @@ title: "Electric Vehicle Lease Scheme"
 ## 16.1 Purpose and Scope
 
 
-**16.1.1** This Policy and Procedure is designed to encourage and to help Employees, to take advantage of the tax rules currently in place to lease an Electric car at a substantial discount over the cost of buying the car outright.  The typical savings an Employee can make vary from 25% to 60% depending on the tax rate the Employee is subject to via a Salary
-
-Sacrifice Scheme.
+**16.1.1** This Policy and Procedure is designed to encourage and to help Employees, to take advantage of the tax rules currently in place to lease an Electric car at a substantial discount over the cost of buying the car outright.  The typical savings an Employee can make vary from 25% to 60% depending on the tax rate the Employee is subject to via a Salary Sacrifice Scheme.
 
 ## 16.2 Procedure
 
@@ -49,9 +47,7 @@ Rules of the Electric Car Scheme.
 
 **16.4.2** The scheme is available to all Employees who have successfully completed their Probationary Period.  It is not available to Agency Workers or other workers not employed by the Company.
 
-**16.4.3** Employees will not be able to join this scheme if the salary sacrifice then takes their salary below the National
-
-Minimum Wage.
+**16.4.3** Employees will not be able to join this scheme if the salary sacrifice then takes their salary below the National Minimum Wage.
 
 
 
@@ -68,9 +64,7 @@ Minimum Wage.
 
 **16.5.2** Employees can only charge their own vehicles.
 
-**16.5.3** Employees are permitted to charge their electric vehicles at work and there will be no charge for the use of
-
-the electricity.
+**16.5.3** Employees are permitted to charge their electric vehicles at work and there will be no charge for the use of the electricity.
 
 **16.5.4** A contract addendum will need to be signed to enter the scheme and can be requested by emailing EVScheme@ stovax.com.
 

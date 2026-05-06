@@ -63,9 +63,7 @@ Working time does not include:
 
 **50.5.2** Young Workers may not ordinarily work more than eight hours a day, more than 40 hours a week, or participate in night work. The Company is unable to accept a Young Worker’s opt out.
 
-**50.5.3** Under the Management of Health and Safety at Work Regulations 1999, the Company has a duty to take care of the Health and Safety of all Employees. This includes undertaking Risk Assessments for those who are classified as a
-
-Young Worker.
+**50.5.3** Under the Management of Health and Safety at Work Regulations 1999, the Company has a duty to take care of the Health and Safety of all Employees. This includes undertaking Risk Assessments for those who are classified as a Young Worker.
 
 **50.5.4** The Risk Assessment will be undertaken by the Line Manager.
 
@@ -96,8 +94,7 @@ written notice.
 In addition, the Working Time Regulations 1998 require all Employees to declare if they have a second form of employment.
 This could for example be paid work such as a few hours working in a bar, or voluntary, such as being in the retained fire service
 or Police Special Constable. This information is used solely for the purpose of complying with the Working Time Regulations,
-
-**1998** If this applies to you, please complete PART B. If you do not wish to opt out of the Working Time Regulation and do not have a second form of employment you are not required to complete this form. If you wish to opt out of the Working Time Regulation, or/and have a second form of employment you must complete the relevant sections and return them to the Human Resources Department. Yours sincerely,
+If this applies to you, please complete PART B. If you do not wish to opt out of the Working Time Regulation and do not have a second form of employment you are not required to complete this form. If you wish to opt out of the Working Time Regulation, or/and have a second form of employment you must complete the relevant sections and return them to the Human Resources Department. Yours sincerely,
 
 
 ### Working Time Regulations
@@ -113,11 +110,15 @@ or Police Special Constable. This information is used solely for the purpose of 
 | Company | |
 | Signature | |
 | Date | |
-PART A
+
+### PART A
+
 I agree that I may work for more than an average of 48 hours a week calculated over a 17-week reference period as provided
 by the Working Time Regulations 1998. If I change my mind I will give the Company one month’s written notice to end
 this agreement.
-PART B
+
+### PART B
+
 The Working Time Regulations, 1998 requires all Employees to declare if they have a second form of employment. This work
 could be paid such as a few hours working in a bar, or voluntary, such as being a member of the retained fire service or a police
 special constable.
@@ -130,10 +131,43 @@ and involvement.
 | Date | |
 
 
-What are the working time regulations?
+### What are the working time regulations?
+
 The working time regulations were introduced in October 1998 to encourage all employers across the European community to
 adopt safe working practice.
 The working time regulations provides a framework for all employers to follow and provides legal protection for Employees.
 In summary the Working Time Regulations state:
-- Employees should not work more than an average of 48 hours per week How do they calculate the average hours? The law requires the company to take all the hours of a rolling 17-week period and calculate the average hours. By taking the average of a 17-week period it allows Employees to work higher levels of overtime during busy periods, or times where resources may be short. Will it prevent me completing over time? Possibly. The Working Time Regulation states you would need to complete more than 9 hour’s overtime every week to be above the regulations guidelines. If you do work high amounts of overtime, you have the option of opting out of the Working Time Regulations. This means you are stating you are happy to work more than an average of 48 hours a week. All you have to do is sign the opt out form on a yearly basis. I frequently work overtime, what should I do? If you think you complete high levels of overtime, on a regular basis, and you wish to continue to do so, then you should opt out of the working time regulations and sign the opt out form. If you think you work overtime on a smaller scale, or fairly sporadically, it is highly likely that you are within the working time regulation guidelines, so you may not need to do anything. If you are unsure what level of overtime you complete you can contact the Payroll department to enquire. Why do I need to declare a second job? The regulations require the company to consider your total working hours, not just your time with this company. We will not disclose this information to any other department; we will review each case and talk to you individually about your situation. We may recommend you opt out of the regulations to ensure you have the flexibility to work between jobs. What if I am still not sure I understand the Working Time Regulation and its impact on me? If you want to discuss this document, or want to chat through your options please contact Human Resources.
+- Employees should not work more than an average of 48 hours per week
+
+### How do they calculate the average hours?
+
+The law requires the company to take all the hours of a rolling 17-week period and calculate the average hours.
+By taking the average of a 17-week period it allows Employees to work higher levels of overtime during busy periods, or times
+where resources may be short.
+
+### Will it prevent me completing over time?
+
+Possibly. The Working Time Regulation states you would need to complete more than 9 hour’s overtime every week to be above
+the regulations guidelines.
+If you do work high amounts of overtime, you have the option of opting out of the Working Time Regulations. This means you
+are stating you are happy to work more than an average of 48 hours a week. All you have to do is sign the opt out form on a
+yearly basis.
+
+### I frequently work overtime, what should I do?
+
+If you think you complete high levels of overtime, on a regular basis, and you wish to continue to do so, then you should opt
+out of the working time regulations and sign the opt out form.
+If you think you work overtime on a smaller scale, or fairly sporadically, it is highly likely that you are within the working time
+regulation guidelines, so you may not need to do anything.
+If you are unsure what level of overtime you complete you can contact the Payroll department to enquire.
+
+### Why do I need to declare a second job?
+
+The regulations require the company to consider your total working hours, not just your time with this company.
+We will not disclose this information to any other department; we will review each case and talk to you individually about your
+situation. We may recommend you opt out of the regulations to ensure you have the flexibility to work between jobs.
+
+### What if I am still not sure I understand the Working Time Regulation and its impact on me?
+
+If you want to discuss this document, or want to chat through your options please contact Human Resources.
 

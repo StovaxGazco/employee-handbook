@@ -40,9 +40,7 @@ title: "Compassionate Leave"
 
 (See [Section 28](28-maternity-pregnancy.md) [Maternity and Pregnancy Policy](28-maternity-pregnancy.md)).
 
-**9.3.4** Each case will be viewed sympathetically. The Company recognises the need for flexibility during these circumstances. In particular leave may be sanctioned, at the company’s absolute discretion, subject to the approval of a director, to attend (could be home, or hospice too) where an immediate relative is terminally ill, up to a maximum of a further 5 working days. Where possible, we will also support Employees linking annual leave entitlement with Compassionate Leave, to extend the period of time off. Using Annual Leave must be discussed and agreed with their Line Manager
-
-in advance.
+**9.3.4** Each case will be viewed sympathetically. The Company recognises the need for flexibility during these circumstances. In particular leave may be sanctioned, at the company’s absolute discretion, subject to the approval of a director, to attend (could be home, or hospice too) where an immediate relative is terminally ill, up to a maximum of a further 5 working days. Where possible, we will also support Employees linking annual leave entitlement with Compassionate Leave, to extend the period of time off. Using Annual Leave must be discussed and agreed with their Line Manager in advance.
 
 **9.3.4** The Compassionate Leave procedure set out above does not form part of Employee’s contract of employment and may be changed by the Company in its absolute discretion at any time.
 
@@ -50,38 +48,55 @@ in advance.
 ### Request For Compassionate Leave
 
 Wherever possible, all sections on this form should be completed prior to the leave taking place.
-Section A – To be completed by the Employee (if available)
-Employee Name
-Department
-Reason for Requesting
-Compassionate Leave
-(e.g. Compassionate & Relationship)
-Number of Days Leave
-Requested
-OR Number of Hours
-Leave Requested
-Date From
-Date To
-Employee’s Signature
-Section B – To be completed by the Employee’s Manager
-(On consulting with Human Resources as necessary)
-Request for Compassionate
-Leave Agreed?
-Yes
-No
-Number of Days Paid
-Or
-Number of Hours Paid
-Number of Days Unpaid
-Or
-Number of Hours Unpaid
-Manager’s Signature
-Manager’s Printed Name
-Date
-Section C – To be completed by Payroll
-(I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook)
-Payroll’s Signature
-Payroll’s Printed Name
-Date
-Manager: Send completed form to Payroll
+
+### Section A – To be completed by the Employee (if available)
+
+
+| Field | Details |
+|---|---|
+| Employee Name | |
+| Department | |
+| Reason for Requesting | |
+| Compassionate Leave | |
+*e.g. Compassionate & Relationship*
+
+| Field | Details |
+|---|---|
+| Number of Days Leave | |
+| Requested | |
+| OR Number of Hours | |
+| Leave Requested | |
+| Date From | |
+| Date To | |
+| Employee’s Signature | |
+
+### Section B – To be completed by the Employee’s Manager
+
+*On consulting with Human Resources as necessary*
+
+| Field | Details |
+|---|---|
+| Request for Compassionate | |
+| Leave Agreed? | |
+| Yes / No | |
+| Number of Days Paid | |
+| Or | |
+| Number of Hours Paid | |
+| Number of Days Unpaid | |
+| Or | |
+| Number of Hours Unpaid | |
+| Manager’s Signature | |
+| Manager’s Printed Name | |
+| Date | |
+
+### Section C – To be completed by Payroll
+
+*I confirm I have processed according to Manager’s instruction and/in line with the Employee Handbook*
+
+| Field | Details |
+|---|---|
+| Payroll’s Signature | |
+| Payroll’s Printed Name | |
+| Date | |
+| Manager: Send completed form to Payroll | |
 

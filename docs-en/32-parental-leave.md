@@ -100,8 +100,10 @@ Children Act 1989 or Children (Scotland) Act 1995.*
 | Child’s date of placement in the case of adoption (where applicable) | |
 Please confirm whether this child has been awarded disability living allowance
 Please complete parts A or B, and part C below
-Yes
-No
+
+| Field | Details |
+|---|---|
+| Yes / No | |
 
 ### Section B
 
@@ -109,7 +111,7 @@ No
 | Field | Details |
 |---|---|
 | I wish to take parental leave following the birth / adoption* of my child for a period of (specify duration) | |
-Leave will commence on*
+| Leave will commence on* | |
 - **a)** the scheduled date of placement for adoption (please specify if known).............................................................................  or
 - **b)** the date of the birth of the baby/my partner’s expected week of childbirth .............................................................................
 
@@ -122,5 +124,8 @@ Leave will commence on*
 | Date | |
 You may be asked to provide a child’s birth certificate, evidence of adoption, parental responsibility, partner’s EWC or
 child’s entitlement to disability living allowance where applicable.
-* delete as appropriate
+
+| Field | Details |
+|---|---|
+| * delete as appropriate | |
 

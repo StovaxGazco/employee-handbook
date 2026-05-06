@@ -23,9 +23,7 @@ This definition makes an important distinction between pressure, which can be a 
 when managed correctly, and stress, which can occur when pressure becomes excessive, which can be detrimental to
 an Employee’s health.
 
-**44.2.2** It should be remembered that stress is a state and not an illness, and where it lasts for a short time there are normally no lasting effects.  However, where stress is sustained over a prolonged period of time, it can have a significant impact on health and well-being.  The identification and reduction of work related stress is a priority for the Company, bringing  benefit to both the organisation and its Employees by taking appropriate action to alleviate and
-
-prevent stress.
+**44.2.2** It should be remembered that stress is a state and not an illness, and where it lasts for a short time there are normally no lasting effects.  However, where stress is sustained over a prolonged period of time, it can have a significant impact on health and well-being.  The identification and reduction of work related stress is a priority for the Company, bringing  benefit to both the organisation and its Employees by taking appropriate action to alleviate and prevent stress.
 
 ## 44.3 Prevention and Legal Responsibility
 
@@ -108,11 +106,7 @@ are in place to assist Employees and Managers to promote a safe and supportive w
 - Consulting with relevant parties e.g. Occupational Health Advisors, Departmental Managers on stress levels and the management thereof, in the relevant forum, such as the Group Health and Safety Meeting;
 - Monitoring statistical data on absence, staff turnover, Employee relations issues and feedback questionnaires to ensure further exploration or action is undertaken where appropriate.
 
-**44.4.7** Employee Responsibilities
-
-It is vital that Employees play an active role in contributing to their own health and well-being and management of
-stress to enable them to carry out their role effectively and to minimise the risk of work related stress.  This can be
-assisted by: -
+**44.4.7** Employee Responsibilities It is vital that Employees play an active role in contributing to their own health and well-being and management of stress to enable them to carry out their role effectively and to minimise the risk of work related stress.  This can be assisted by: -
 - Ensuring good communication with colleagues and Line Managers and by fostering good working relationships;
 - Supporting colleagues by sharing information and knowledge and by working cohesively as a team;
 - Engaging in discussions about their performance and acting on feedback in a positive manner;
@@ -122,10 +116,7 @@ assisted by: -
 
 **44.4.8** It is hoped that a proactive approach by all will mitigate the occurrence of potential harmful levels of stress.  However, where an Employee feels under undue pressure resulting in symptoms of stress, they should inform their Line Manager or Human Resources as soon as possible.
 
-**44.4.9** The Board of Directors
-
-The Board of Directors have individual and collective responsibilities to lead by example, and where necessary minimise
-and monitor, the effects of their decisions on health and safety, including occupational stress.
+**44.4.9** The Board of Directors The Board of Directors have individual and collective responsibilities to lead by example, and where necessary minimise and monitor, the effects of their decisions on health and safety, including occupational stress.
 
 **44.4.10** The legal accountability for implementing this Policy (as with all parts of the [Health and Safety Policy](22-health-safety.md)) lies with the Directors.  Whilst much of the responsibility for implementation will, if necessity, be delegated via line management, the primary responsibility for ensuring delivery lies with the Managing Director.  In discharging this responsibility, the Managing Director will monitor management information relating to stress and will establish such management mechanisms or groups as is necessary to ensure that such information is gathered and considered.
 

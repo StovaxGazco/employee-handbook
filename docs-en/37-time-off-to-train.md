@@ -16,13 +16,17 @@ title: "Right to Request Time off to Train"
 
 **37.1.4** These guidelines provide details of the eligibility and process relating to requests for time off for training.
 
-## 37.2 What is the Right to Time Off to Train?
+## 37.2
+
+
+### What is the Right to Time Off to Train?
 
 
 **37.2.1** Employees have the statutory (legal) right to request time for study or training. This right is known as ‘time to train’.
 
-## 37.3 Who Qualifies?
+## 37.3
 
+Who Qualifies?
 
 **37.3.1** The Employee will be eligible to make a request for ‘time to train’ if:
 - **a)** The Employee is a permanent Employee and has 26 weeks’ continuous employment on the date the application is made; and
@@ -117,9 +121,7 @@ The Meeting
 
 for appeal.
 
-**37.6.5** An Appeal Hearing will take place at which the Employee will have the opportunity to explain their grounds of appeal.  The Employee will be informed at least two full working days in advance of the date, time and loca tion of the hearing and must take all reasonable steps to attend.  The Appeal Hearing will be conducted by the Company Secretary or a Senior Manager.  The form of the Appeal Hearing will be at the absolute discretion of the Company Secretary or Senior Manager hearing the appeal.  An appeal will usually occur on the same basis as the original meeting; in addition, it may involve a review of all the relevant documentation including the Employee’s grounds
-
-for appeal.
+**37.6.5** An Appeal Hearing will take place at which the Employee will have the opportunity to explain their grounds of appeal.  The Employee will be informed at least two full working days in advance of the date, time and loca tion of the hearing and must take all reasonable steps to attend.  The Appeal Hearing will be conducted by the Company Secretary or a Senior Manager.  The form of the Appeal Hearing will be at the absolute discretion of the Company Secretary or Senior Manager hearing the appeal.  An appeal will usually occur on the same basis as the original meeting; in addition, it may involve a review of all the relevant documentation including the Employee’s grounds for appeal.
 
 **37.6.6** An Employee may be accompanied to the Appeal Hearing by a fellow Employee of the Company or Trade Union Representative if they wish. If the Employee’s chosen companion is unavailable on the proposed date of the Appeal Hearing, and this is advised to the Company in advance in writing, the hearing may be postponed by up to five working days at the Employee’s request and subject to the Employee proposing an alternative time and date within five working days of the original date.
 
@@ -141,15 +143,18 @@ for appeal.
 |---|---|
 | Name | |
 | Line Manager | |
-Company:
-Stovax
-Gazco
-Both
-Course:
-Course Dates:
-Course Cost:
+| Company | |
+| Stovax | |
+| Gazco | |
+| Both | |
+| Course | |
+| Course Dates | |
+| Course Cost | |
 In consideration of the investment of the Stovax Group allowing me to attend the training course detailed below:
-The following condition will apply:
+
+| Field | Details |
+|---|---|
+| The following condition will apply | |
 - If I am dismissed under the Company’s Absence or [Disciplinary Policy](13-disciplinary.md) & Procedure, or choose to leave the company of my own volition, within two years of completing the above training course, then the fees paid to date for training by the company will be repayable.  The sum repayable will be reduced pro rata by 1/24th for each month worked from the training completion date, up to and including the leaving date.
 - If I leave the company before completion of the training course, then the fees paid to date for the training by the company will be repayable in full.
 - This deduction may include:-

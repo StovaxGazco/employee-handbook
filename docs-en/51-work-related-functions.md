@@ -40,9 +40,7 @@ title: "Work Related Functions & Events"
 
 **51.3.1** Employees who organise informal events after work, particularly in venues close to the workplace, should recognise that such events may be classed as ‘Work related functions’ by the courts.  It is therefore imperative that Employees conduct themselves in a proper manner and avoid bringing the Company into disrepute.
 
-**51.3.2** Complaints about Employees conduct brought to the Company’s attention either by other Employees or by the owners or managers of public houses and bars frequented by Employees will be fully investigated and may lead to
-
-disciplinary action.
+**51.3.2** Complaints about Employees conduct brought to the Company’s attention either by other Employees or by the owners or managers of public houses and bars frequented by Employees will be fully investigated and may lead to disciplinary action.
 
 
 

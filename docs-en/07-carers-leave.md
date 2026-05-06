@@ -37,9 +37,7 @@ title: "Carers Leave"
 ## 7.4 Abuse of the Carers Leave Entitlement
 
 
-**7.4.1** In the event the Company becomes aware of the following circumstances, the Company may
-
-consider disciplinary action: -
+**7.4.1** In the event the Company becomes aware of the following circumstances, the Company may consider disciplinary action: -
 - where an Employee has knowingly made a fraudulent claim for Carers Leave;
 - where an Employee has used Carers Leave for any other reasons than those described at 7.1.2.
 
@@ -65,12 +63,9 @@ to and including summary dismissal.
 |---|---|
 | Signature | |
 | Date | |
-Management Use Only
-Request Agreed                     Request Declined
-Reason for declined request: (if applicable)
-
-| Field | Details |
-|---|---|
+| Management Use Only | |
+| Request Agreed                     Request Declined | |
+| Reason for declined request: (if applicable) | |
 | Signature | |
 | Date | |
 

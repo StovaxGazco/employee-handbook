@@ -79,9 +79,7 @@ enclosed shoes.
 - Clothing with slogans or graphics which may cause offence;
 - Flip-flops (leather or otherwise)
 
-**46.5.2** Employees are encouraged to adopt a common-sense approach with regard to clothing, jewellery or glasses which they wear to work. Employees must ensure that articles are appropriate to the type of work they carry out and also be mindful of any potential damage or loss to their personal property, which may arise as a result of carrying out
-
-their duties.
+**46.5.2** Employees are encouraged to adopt a common-sense approach with regard to clothing, jewellery or glasses which they wear to work. Employees must ensure that articles are appropriate to the type of work they carry out and also be mindful of any potential damage or loss to their personal property, which may arise as a result of carrying out their duties.
 
 **46.5.3** Employees are not permitted to wear jewellery in all Factory or Warehouse areas for health and safety reasons including bracelets, earrings (excluding studs if an Employee has pierced ears), necklaces, rings or other jewellery. Wedding rings may be worn but must be covered with a plaster whilst working with any potentially dangerous equipment.
 

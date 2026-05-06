@@ -4,10 +4,11 @@ title: "Key Holder"
 
 # Section 25: Key Holder
 
-25 .1
-Purpose and Scope
-25 .1.1 The purpose of this policy is to define who may be issued keys to the Company’s buildings and who may authorise the
-distribution of keys.
+
+## 25.1 Purpose and Scope
+
+
+**25.1.1** The purpose of this policy is to define who may be issued keys to the Company’s buildings and who may authorise the distribution of keys.
 
 ## 25.2 Definitions
 
@@ -48,5 +49,5 @@ Name
 |---|---|
 | Company | |
 | Department | |
-Date
+| Date | |
 

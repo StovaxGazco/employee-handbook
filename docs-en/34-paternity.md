@@ -8,9 +8,7 @@ title: "Paternity"
 ## 34.1 Purpose and Scope
 
 
-**34.1.1** The Company wishes to support families during the exciting but often unsettling period of childbirth.  The purpose of this Policy and Procedure is to ensure the Company’s Paternity Leave arrangements are transparent and
-
-consistently applied.
+**34.1.1** The Company wishes to support families during the exciting but often unsettling period of childbirth.  The purpose of this Policy and Procedure is to ensure the Company’s Paternity Leave arrangements are transparent and consistently applied.
 
 ## 34.2 Contractual Benefits
 
@@ -58,15 +56,11 @@ Compassionate Leave for the same circumstances.
 ## 34.5 Enhanced Company Paternity Pay
 
 
-**34.5.1** The Company recognises the new addition to the family is exciting, but it also places additional demands on
-
-the finances.
+**34.5.1** The Company recognises the new addition to the family is exciting, but it also places additional demands on the finances.
 
 **34.5.2** To support Employees, where they meet the Statutory Paternity Criteria (see section 34.2) the Company has committed to increase the first week’s payment from Statutory Paternity Pay (SPP) to the equivalent of three days’ full time work. This payment will be calculated on basic pay only.  For those Employees who work in Production, Distribution, Retail or Warehouse, the payment will be calculated on three fifths of their basic working week.
 
-**34.5.3** The Company fully supports Employees linking annual leave entitlement with Paternity Leave, to extend the period of time with the child and/or mother.  Using annual leave must be discussed and agreed in advance with your
-
-Line Manager.
+**34.5.3** The Company fully supports Employees linking annual leave entitlement with Paternity Leave, to extend the period of time with the child and/or mother.  Using annual leave must be discussed and agreed in advance with your Line Manager.
 
 ## 34.6 Applying for Paternity Leave
 
@@ -86,9 +80,7 @@ Line Manager.
 ## 34.7 Abuse of the Paternity Leave Entitlement
 
 
-**34.7.1** In the event the Company becomes aware of the following circumstances, the Company may consider
-
-disciplinary action.
+**34.7.1** In the event the Company becomes aware of the following circumstances, the Company may consider disciplinary action.
 - Where an Employee has knowingly made a fraudulent claim for Statutory Paternity Leave;
 - Where an Employee has used Statutory Paternity Leave for purposes other than supporting the mother, or providing care for the child.
 
@@ -128,8 +120,10 @@ Children Act 1989 or Children (Scotland) Act 1995.*
 | Child’s date of placement in the case of adoption (where applicable) | |
 Please confirm whether this child has been awarded disability living allowance
 Please complete parts A or B, and part C below
-Yes
-No
+
+| Field | Details |
+|---|---|
+| Yes / No | |
 
 ### Section B
 
@@ -137,7 +131,7 @@ No
 | Field | Details |
 |---|---|
 | I wish to take paternity leave following the birth / adoption* of my child for a period of (specify duration) | |
-Leave will commence on*
+| Leave will commence on* | |
 - **a)** the scheduled date of placement for adoption (please specify if known).............................................................................  or
 - **b)** the date of the birth of the baby/my partner’s expected week of childbirth .............................................................................
 
@@ -150,5 +144,8 @@ Leave will commence on*
 | Date | |
 You may be asked to provide a child’s birth certificate, evidence of adoption, parental responsibility, partner’s EWC or
 child’s entitlement to disability living allowance where applicable.
-* delete as appropriate
+
+| Field | Details |
+|---|---|
+| * delete as appropriate | |
 

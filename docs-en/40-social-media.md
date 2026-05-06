@@ -5,7 +5,8 @@ title: "Social Media"
 # Section 40: Social Media
 
 
-**40** 1 Purpose and Scope
+## 40.1 Purpose and Scope
+
 
 **40.1.1** This policy is intended to help staff make appropriate decisions about the use of social media such as blogs, wikis, social networking websites, podcasts, forums, message boards, or comments on web-articles, such as Twitter, Facebook, LinkedIn and any similar media.
 
@@ -34,9 +35,7 @@ in which we will monitor the use of social media and the action we will take in 
 
 **40.3.1** Employees are not permitted to use Social Media Sites during working hours, or on Company property unless in relation to their role, and with authority to do so.
 
-**40.3.2** When using Social Media Sites outside of work or working hours Employees must adhere to the following
-
-general rules: -
+**40.3.2** When using Social Media Sites outside of work or working hours Employees must adhere to the following general rules: -
 - Employees are not permitted to post, forward, or post a link to any abusive, obscene, discriminatory, harassing derogatory or defamatory content about the Company or any of its Employees.
 - Any Employee who feels that they have been harassed or bullied, or are offended by material posted or uploaded by a colleague onto a social media website should inform their Line Manager or Human Resources.
 - Employees should never disclose commercially sensitive, anti-competitive, private or confidential information. If you are unsure whether the information you wish to share falls within one of these categories, this should be discussed with your Line manager or Human Resources.

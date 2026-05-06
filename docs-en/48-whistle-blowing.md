@@ -12,9 +12,7 @@ title: "Whistle Blowing"
 
 **48.1.2** This Policy is designed to provide guidance to all those who work with, or within the Company, who may from time to time feel that they need to raise certain issues relating to the Company with someone in confidence.
 
-**48.1.3** The detailed provisions of these disclosures have been formulated in such a way as to conform with the Public Interest Disclosure Act 1999, and in recognition of the need to investigate allegations fully, while dealing fairly with
-
-anyone accused.
+**48.1.3** The detailed provisions of these disclosures have been formulated in such a way as to conform with the Public Interest Disclosure Act 1999, and in recognition of the need to investigate allegations fully, while dealing fairly with anyone accused.
 
 **48.1.4** The Public Interest Disclosure Act 1999 (“the Act”), gives legal protection to Employees against being dismissed or otherwise disciplined by their Employer, as a consequence of raising, with appropriate senior personnel, serious concerns, which they believe indicate malpractice or wrong doing within the Company.
 
@@ -50,9 +48,7 @@ anyone accused.
 ## 48.3 Procedure
 
 
-**48.3.1** Concerns should initially be reported to Human Resources or the Company Secretary whose principal initial purpose will be to establish whether or not there are prima facie grounds for the concern or complaint, and if so, the appropriate means for dealing with it. An Employee is entitled to request another Employee be present when they make
-
-the disclosure.
+**48.3.1** Concerns should initially be reported to Human Resources or the Company Secretary whose principal initial purpose will be to establish whether or not there are prima facie grounds for the concern or complaint, and if so, the appropriate means for dealing with it. An Employee is entitled to request another Employee be present when they make the disclosure.
 
 **48.3.2** Human Resources or Company Secretary will, where relevant, ensure that the disclosure is not as a consequence of a misunderstanding.  If this appears to be the case an initial informal discussion may be undertaken to clarify matters.
 

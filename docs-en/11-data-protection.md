@@ -71,7 +71,6 @@ process personal data:
 **11.4.4** The sort of information that the Company holds includes the Employee’s application form and/or CV, references, contract of employment and any amendments to this, correspondence with or about the Employee, for example letters to the Employee about a pay rise or, at the Employee’s request, a letter to a mortgage company confirming salary, information needed for payroll, benefits and expenses purposes, contact and emergency contact details, records of holiday, sickness and other absence, records relating to career history, such as training records, appraisals, other performance measures and, where appropriate, disciplinary and grievance records. Company Data Application Form References Received Payroll and Tax information Sickness Records Annual Leave Records Unpaid Leave / Special Leave Records Annual Appraisals / Assessment Records Records relating to Transfers/Training/Disciplinary matters Summary of Record of Service Records relating to Accidents or Injuries at work
 
 
-
 **11.4.5** The Employee will of course, inevitably be referred to in many company documents and records that are produced by the Employee and their colleagues in the course of carrying out their duties and the business of the Company.
 
 **11.4.6** Where necessary, the Company will keep information relating to the Employee’s health, which could include reasons for absence and GP reports and notes.  This information will be issued in order to comply with the Company’s health and safety and occupational health obligations, to consider how the Employee’s health affects their ability to do their role and whether any adjustments to their role may be appropriate.  The Company will also need this data to administer and manage statutory and company sick pay and other related benefits.
@@ -110,7 +109,6 @@ Employee Rights
 Employee Responsibilities.
 
 **11.6.1** Where an employee is aware that a breach of personal data, no matter how trivial may have occurred, they must immediately send the details to the Data Protection Officer, via the email address privacy@stovax.com, with a copy to their line manager. In exceptional circumstances, this notification can also be made in writing to the address in
-
 
 **11.5.4** above.
 

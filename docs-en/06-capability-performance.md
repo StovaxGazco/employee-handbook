@@ -13,12 +13,7 @@ title: "Capability & Performance"
 ## 6.2 Definition
 
 
-**6.2.1** For the purposes of this policy, capability and performance is defined as: -
-
-Where an Employee is failing in a significant or persistent way to carry out their responsibilities or duties in a satisfactory
-manner, either due to lack of ability, inadequate training or lack of experience.  Such failings will be identified by the
-use of the following procedures and steps taken to improve performance.  Where such steps prove unsuccessful the
-Employee may have their employment terminated on the grounds of incapability.
+**6.2.1** For the purposes of this policy, capability and performance is defined as: - Where an Employee is failing in a significant or persistent way to carry out their responsibilities or duties in a satisfactory manner, either due to lack of ability, inadequate training or lack of experience.  Such failings will be identified by the use of the following procedures and steps taken to improve performance.  Where such steps prove unsuccessful the Employee may have their employment terminated on the grounds of incapability.
 
 ## 6.3 Personal or Domestic Problems
 
@@ -116,9 +111,7 @@ sufficiently serious, a Final Improvement Notice and Final Warning may be issued
 
 **6.6.12** The Employee will be informed that a Manager may considerate appropriate to take further action during the assessment period.  For example, a Manager may consider extending the assessment period if the Employee requires a slightly longer timescale to fully demonstrate a continuous and sustained improvement in performance.  The Manager may also consider taking further action prior to the end of the assessment period, if the Employee’s performance is not likely to meet the targets/expectations during the original period.  In all cases, the Manager should discuss this with  Human Resources.
 
-**6.6.13** The Employee will be informed that failure to improve may lead to dismissal (or some other act short of dismissal)
-
-(See Section 6.6.15).
+**6.6.13** The Employee will be informed that failure to improve may lead to dismissal (or some other act short of dismissal) (See Section 6.6.15).
 
 **6.6.14** A copy of the Final Improvement Notice and Final Warning will be kept on the Employee’s Personnel file, but will be disregarded for Capability and Performance Purposes after twelve months, subject to satisfactory performance.
 
@@ -153,9 +146,7 @@ appeal and arrangements.
 ## 6.8 Other Provisions
 
 
-**6.8.1** During formal proceedings, including appeals, the Employee may be accompanied by another Employee of the Company if they wish.  If the Employee’s chosen companion is unavailable on the proposed date of the hearing and this is notified to the Company in advance, the hearing may be postponed by up to five working days at the Employee’s request and subject to the Employee proposing an alternative time and date within five working days of the
-
-original date.
+**6.8.1** During formal proceedings, including appeals, the Employee may be accompanied by another Employee of the Company if they wish.  If the Employee’s chosen companion is unavailable on the proposed date of the hearing and this is notified to the Company in advance, the hearing may be postponed by up to five working days at the Employee’s request and subject to the Employee proposing an alternative time and date within five working days of the original date.
 
 **6.8.8** Should the Employee be unable to attend the hearing, due to circumstances beyond their control and unforeseeable at the time the hearing was arranged, the Company will seek to rearrange a mutually acceptable date.  The rescheduled hearing may proceed and a decision may be taken in the Employee’s absence, if the Employee fails to attend the rescheduled hearing without good reason.
 
@@ -171,7 +162,6 @@ original date.
 **6.9.2** The appeal should be within seven calendar days of receipt of the written outcome letter.  Should the Employee require additional time to submit an appeal, they may make a request to Human Resources for a reasonable extension.
 
 **6.9.4** The grounds of appeal must be stated in writing and should be encompassed by one of the following: -
-
 - The Employee considers the sanction applied disproportionate to the offence;
 - There has been a procedural irregularity in the disciplinary process;
 - There are new facts which have come to light which have significant bearing on the proceedings.

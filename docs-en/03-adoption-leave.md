@@ -184,7 +184,6 @@ N/A
 
 **3.12.4** The Company may, at its option either pay the Employee for KITs worked, or opt to operate a ‘time in lieu’ policy for the KITs.  In the event of the Company opting to operate a ‘time in lieu’ policy, Employees will be able to use their accrued time in lieu once they return to work.  This may help the Employee during the first few weeks back at work and ease
 
-
 the transition from Adoption Leave to work for both Parent and child.  If the Company elects to pay KITs, the Employee
 will be paid for these in the month in which the KIT day is worked.
 
@@ -214,9 +213,7 @@ will be paid for these in the month in which the KIT day is worked.
 ## 3.14 Grievances
 
 
-**3.14.1** If the Employee feels they have been treated unfairly by an individual, or their Line Manager in relation to their adoption leave request, they should refer to the [Grievance Policy and Procedure](21-grievance.md) in the Employee Handbook
-
-([Section 21](21-grievance.md)).
+**3.14.1** If the Employee feels they have been treated unfairly by an individual, or their Line Manager in relation to their adoption leave request, they should refer to the [Grievance Policy and Procedure](21-grievance.md) in the Employee Handbook ([Section 21](21-grievance.md)).
 
 
 Name

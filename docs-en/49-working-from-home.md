@@ -88,9 +88,7 @@ title: "Working from Home"
 
 **49.9.2** IT equipment provided by the Company to the Employee to support working from home is for the exclusive use of that Employee alone.  The Employee is not permitted two allow family members or friends to use IT equipment provided to them.
 
-**49.9.3** The Employee is also required to comply with the Company’s policies that cover the use of IT equipment
-
-and applications.
+**49.9.3** The Employee is also required to comply with the Company’s policies that cover the use of IT equipment and applications.
 
 
 ## 49.10 Absence and Sickness

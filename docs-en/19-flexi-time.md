@@ -34,9 +34,7 @@ title: "Flexi Time"
 ## 19.4 Procedure
 
 
-**19.4.1** Employees participating in the flexi time system must be present during “Core Hours” and must carry out their other hours of work within the “Available Working Hours”.  Any adjustments to this should be with the prior approval of
-
-a Director.
+**19.4.1** Employees participating in the flexi time system must be present during “Core Hours” and must carry out their other hours of work within the “Available Working Hours”.  Any adjustments to this should be with the prior approval of a Director.
 
 **19.4.2** Managers have the discretion to require attendance at more specific times during the available working hours to meet the needs of the business and to ensure departments are not left short staffed during normal business hours or while other colleagues are on holiday for example.
 
